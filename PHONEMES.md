@@ -20,6 +20,7 @@ The phoneme system using here is a modified version of the VINA system, which wa
 | ia      | iə̯     | ia, iê, yê             | lười b**iế**ng | [l Ua Y b ia NG] |                                                                                    |
 | ua      | uə̯     | ua, uô                 | v**uô**ng vức  | [v ua NG v U K]  |                                                                                    |
 | Ua      | ɨə̯~ɯə̯ | ưa, ươ                 | trời m**ưa**   | [ch 2 Y m Ua]    |                                                                                    |
+
 There would have been 3 /ə̆/ for the last 3 diphthongs, but labeling it was too hard, so instead, we settled for add 3 more vowels.
 ## Final consonants
 
