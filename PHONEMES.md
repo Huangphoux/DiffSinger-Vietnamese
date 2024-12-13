@@ -6,7 +6,7 @@ The phoneme system using here is a modified version of the VINA system, which wa
 
 | Phoneme | IPA | Written representation                   | Example       | Phonetic         | Note                                                                                            |
 | ------- | --- | ---------------------------------------- | ------------- | ---------------- | ----------------------------------------------------------------------------------------------- |
-| a       | a   | a                                        | c**à** chua   | [k a ch ua]      |                                                                                                 |
+| a       | a   | a                                        | c**à** chua   | [k a ch u 3]     |                                                                                                 |
 | 4       | ă   | ă, a                                     | s**a**y mê    | [s 4 Y m E]      | The number 4 was chosen due to the resemblence with the letter A, would have settled for [ae]   |
 | i       | i   | i, y                                     | b**í** đao    | [b i d a W]      |                                                                                                 |
 | u       | u   | u                                        | c**ủ** sắn    | [k u s 4 N]      |                                                                                                 |
@@ -37,7 +37,7 @@ Yeah so using [3] /ə̆/ enables much more lax phoneme placement.
 | T       | t̚      | t                      | má**t** mẻ     | [m a T m e]       |      |
 | K       | k̚      | c                      | tạm gá**c**    | [t a M g a K]     |      |
 | KP      | k͡p̚    | c                      | ngoạn mụ**c**  | [ng w a N m u KP] |      |
-| CH      | c̚~jk̟̚ | ch                     | hữu í**ch**    | [h U w i CH]      |      |
+| CH      | c̚~jk̟̚ | ch                     | hữu í**ch**    | [h U W i CH]      |      |
 
 /uk/ → [uk͡p̚], and /ok/ → [ok͡p̚]
 
@@ -53,7 +53,7 @@ The reason for differentiating between initial consonants and final consonants c
 | b       | ɓ   | b                      | mua **b**án     | [m u 3 b a N]       |                                                           |
 | d       | ɗ   | đ                      | **đ**i lại      | [d i l a Y]         |                                                           |
 | f       | f   | ph                     | trái **ph**ải   | [ch a Y f a Y]      |                                                           |
-| g       | ɣ   | g, gh                  | **g**õ cửa      | [g o k U 3]         | It's the Spanish **g** !                                  |
+| g       | ɣ   | g, gh                  | **g**õ cửa      | [g o k U 3]         |                                                           |
 | h       | h   | h                      | **h**ạnh phúc   | [h 4 NH f u KP]     |                                                           |
 | k       | k   | c, k                   | **k**ỉ niệm     | [k i n i 3 M]       |                                                           |
 | kh      | x   | kh                     | trống **kh**ông | [ch O NGM kh O NGM] |                                                           |
@@ -70,22 +70,22 @@ The reason for differentiating between initial consonants and final consonants c
 | z       | z   | d, gi, r               | **gi**ẻ lau     | [z e l 4 W]         |                                                           |
 | w       | w   | (q)u, (th)o            | khô th**o**áng  | [kh O th w a NG]    | This sound only occur as a glide in the Northern dialect. |
 # Southern Exclusives
-| Phoneme | IPA   | Written representation | Example       | Phonetic        | Note |
-| ------- | ----- | ---------------------- | ------------- | --------------- | ---- |
-| ck      | c     | ch                     | **ch**e đậy   | [ck e d A Y]    |      |
-| y       | j     | d                      | **d**ành cho  | [y 4 NH ch o]   |      |
-| w       | w     | qu                     | hào **qu**ang | [h a W w a NG]  |      |
-| tr      | ʈ͡ʂ~ʈ | tr                     | **tr**ẻ đẹp   | [tr e d e P]    |      |
-| sh      | ʂ     | s                      | **s**âm banh  | [sh A M b 4 NH] |      |
-| r       | ʐ, r  | r                      | cà **r**em    | [k a r e M]     |      |
-| NM      | ŋ͡m   | n                      | tồ**n** tại   | [t O NM t a Y]  |      |
+| Phoneme | IPA   | Written representation | Example       | Phonetic       | Note |
+| ------- | ----- | ---------------------- | ------------- | -------------- | ---- |
+| ck      | c     | ch                     | **ch**e đậy   | [ck e d A Y]   |      |
+| y       | j     | d                      | **d**ành cho  | [y 4 N ck o]   |      |
+| w       | w     | qu                     | hào **qu**ang | [h a W w a NG] |      |
+| tr      | ʈ͡ʂ~ʈ | tr                     | **tr**ẻ đẹp   | [tr e d e P]   |      |
+| sh      | ʂ     | s                      | **s**âm banh  | [sh A M b 4 N] |      |
+| r       | ʐ, r  | r                      | cà **r**em    | [k a r e M]    |      |
+| NM      | ŋ͡m   | n                      | tồ**n** tại   | [t O NM t a Y] |      |
 
  The purpose of the last phoneme can be easily illustrated by "đồn công an" [d O NM k O NGM a NG].
 
 # Special
-| Phoneme | IPA | Written representation | Example | Phonetic | Note      |
-| ------- | --- | ---------------------- | ------- | -------- | --------- |
-| q       | ʔ   |                        |         |          |           |
-| vf      |     |                        |         |          | Vocal fry |
-| mm      |     |                        |         |          |           |
-| nn      |     |                        |         |          |           |
+| Phoneme | IPA | Written representation | Example | Phonetic | Note         |
+| ------- | --- | ---------------------- | ------- | -------- | ------------ |
+| q       | ʔ   |                        |         |          | Glottal stop |
+| vf      |     |                        |         |          | Vocal fry    |
+| mm      | m̩  |                        |         |          | Syllabic m   |
+| nn      | n̩  |                        |         |          | Syllabic n   |
