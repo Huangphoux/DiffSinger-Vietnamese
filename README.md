@@ -7,4 +7,5 @@ The recommended dialect for recording datasets is Northern, as the majority of p
 [Phoneme Tables](PHONEMES.md)
 
 (WARNING: DICTIONARY FILES ARE STILL BEING WORKED ON)
+
 Dictionary files are provided by [Montreal Forced Aligner](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/vietnamese), licensed under [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/vietnamese/hanoi_mfa/v3.0.0/LICENSE), which allowed sharing and adapting. Changes have been made to adapt the dictionaries to this repo's phoneme system.
