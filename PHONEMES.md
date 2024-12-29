@@ -79,13 +79,14 @@ The reason for differentiating between initial consonants and final consonants c
 | sh      | ʂ     | s                      | **s**âm banh  | [sh A M b 4 N] |      |
 | r       | ʐ, r  | r                      | cà **r**em    | [k a r e M]    |      |
 | NM      | ŋ͡m   | n                      | tồ**n** tại   | [t O NM t a Y] |      |
+| TP      | k͡p̚  | t                      | tố**t** tánh  | [t O TP t 4 N] |      |
 
- The purpose of the last phoneme can be easily illustrated by "đồn công an" [d O NM k O NGM a NG].
+ The purpose of the last two phonemes can be easily illustrated by "đồn công an" [d O NM k O NGM a NG] and "phát lộc tốt lành" [f a K l O KP t O TP l 4 N].
 
 # Special
 | Phoneme | IPA | Written representation | Example | Phonetic | Note         |
 | ------- | --- | ---------------------- | ------- | -------- | ------------ |
-| q       | ʔ   |                        |         |          | Glottal stop |
-| vf      |     |                        |         |          | Vocal fry    |
+| cl      | ʔ   |                        |         |          | Glottal stop |
+| vf      | ◌̰  |                        |         |          | Vocal fry    |
 | mm      | m̩  |                        |         |          | Syllabic m   |
 | nn      | n̩  |                        |         |          | Syllabic n   |

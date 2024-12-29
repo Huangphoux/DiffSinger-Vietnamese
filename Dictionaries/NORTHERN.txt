@@ -930,7 +930,6 @@ linh	l i NH
 liên	l i 3 N
 liêng	l i 3 NG
 liền	l i 3 N
-liệt	l i 3
 liệt	l i 3 T
 liệu	l i 3 q W
 lo	l o
@@ -946,6 +945,7 @@ luyện	l w i 3 q N
 luôn	l u 3 N
 luận	l w A q N
 luật	l w A T
+li	l i
 ly	l i
 là	l a
 làm	l a M
@@ -1087,6 +1087,7 @@ manh	m 4 NH
 mau	m 4 W
 may	m 4 Y
 mi	m i
+my	m i
 minh	m i NH
 miên	m i 3 N
 miến	m i 3 N
@@ -1341,12 +1342,10 @@ nhau	nh 4 W
 nhi	nh i
 nhiên	nh i 3 N
 nhiêu	nh i 3 W
-nhiếp	nh i 3
 nhiếp	nh i 3 P
 nhiều	nh i 3 W
 nhiễm	nh i 3 q M
 nhiệm	nh i 3 q M
-nhiệt	nh i 3
 nhiệt	nh i 3 T
 nhu	nh u
 nhung	nh u NGM
@@ -1439,7 +1438,6 @@ nôn	n O N
 nông	n o NGM
 nùng	n u NGM
 núi	n u Y
-nút	n u
 nút	n u T
 năm	n 4 M
 năng	n 4 NG
