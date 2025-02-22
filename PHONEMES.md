@@ -14,11 +14,10 @@ The phoneme system using here is a modified version of the VINA system, which wa
 | e       | ɛ   | e                                        | n**é** tránh  | [n e ch a NH]    |                                                                                                 |
 | E       | e   | ê                                        | k**ể** chuyện | [k E ch w i 3 N] |                                                                                                 |
 | 2       | ə   | ơ                                        | giấc m**ơ**   | [z A K m 2]      | Improvised due to having to use alphanumeric characters, would have settled for the character @ |
-| A       | ə̆  | â                                        | t**â**n thời  | [t A N th 2 Y]   |                                                                                                 |
+| A       | ə̆   | â                                        | t**â**n thời  | [t A N th 2 Y]   |                                                                                                 |
 | o       | ɔ   | o                                        | nh**ỏ** xíu   | [nh o s i w]     |                                                                                                 |
 | O       | o   | ô                                        | c**ô** gái    | [k O g a Y]      |                                                                                                 |
-| 3       | ə̯  | (i)a, (i)ê, (y)ê, (u)a, (u)ô, (ư)a, (ư)ơ | vu**ô**ng vức | [v u 3 NG v U K] |                                                                                                 |
-
+| ia      | iə̯  | ia, i
 <strike>There would have been [3] /ə̆/ for the last 3 diphthongs (the idea was to seperate the ə̆), but labeling it was too hard, so instead, we settled for adding 3 more vowels.</strike>
 
 Yeah so using [3] /ə̆/ enables much more lax phoneme placement.
