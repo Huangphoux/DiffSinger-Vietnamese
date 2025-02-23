@@ -50,13 +50,13 @@ The reason for differentiating between initial consonants and final consonants c
 
 Rules:
 - All final consonants are uppercase version of their initial consonants.
-- The left side is more akin to the orthography. The right side is more correct phonemically. You could use either, but choose one side and then stick with it.
-	- /uk/ → [u KP]
-	- /ɔk/ → [o KP] / [a KP]
-	- /ok/ → [O KP] / [oe KP]
-	- /uŋ/ → [u NGM]
-	- /ɔŋ/ → [o NGM] / [a NGM]
-	- /oŋ/ → [O NGM] / [oe NGM]
+- /uk/ → [u KP]
+- /ɔk/ → [o KP]
+- /ok/ → [O KP]
+- /uŋ/ → [u NGM]
+- /ɔŋ/ → [o NGM]
+- /oŋ/ → [O NGM]
+
 ## Initial Consonants
 
 | Phoneme | IPA | Written representation | Example         | Phonetic            | Note                                                       |

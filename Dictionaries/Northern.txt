@@ -1,0 +1,4810 @@
+a	a
+ai	a Y
+am	a M
+an	a N
+ang	a NG
+anh	ae NH
+ao	a W
+au	ae W
+ba	b a
+bai	b a Y
+ban	b a N
+bang	b a NG
+banh	b ae NH
+bao	b a W
+bay	b ae Y
+be	b e
+beo	b e W
+bi	b i
+bia	b ia
+binh	b i NH
+bit	b i T
+biên	b ia N
+biếc	b ia k
+biến	b ia N
+biếng	b ia NG
+biết	b ia T
+biếu	b ia W
+biền	b ia N
+biển	b ia N
+biểu	b ia W
+biện	b ia q N
+biệt	b ia T
+bo	b o
+boa	b w a
+bom	b o M
+bon	b o N
+bong	b o NGM
+boong	b o NG
+bu	b u
+bung	b u NGM
+buôn	b ua N
+buông	b ua NG
+buýt	b w i T
+buốt	b ua T
+buồi	b ua Y
+buồm	b ua M
+buồn	b ua N
+buồng	b ua NG
+buổi	b ua Y
+buộc	b ua k
+buột	b ua T
+bà	b a
+bài	b a Y
+bàn	b a N
+bàng	b a NG
+bành	b ae NH
+bào	b a W
+bàu	b ae W
+bày	b ae Y
+bá	b a
+bác	b a k
+bách	b ae CH
+bái	b a Y
+bám	b a M
+bán	b a N
+báng	b a NG
+bánh	b ae NH
+báo	b a W
+bát	b a T
+báu	b ae W
+bâng	b A NG
+bâu	b A W
+bây	b A Y
+bã	b a q
+bãi	b a q Y
+bão	b a q W
+bè	b e
+bèn	b e N
+bèo	b e W
+bé	b e
+bén	b e N
+béo	b e W
+bét	b e T
+bê	b E
+bên	b E N
+bênh	b E NH
+bêu	b E W
+bì	b i
+bìa	b ia
+bình	b i NH
+bìu	b i W
+bí	b i
+bích	b i CH
+bím	b i M
+bính	b i NH
+bíp	b i P
+bít	b i T
+bíu	b i W
+bò	b o
+bòn	b o N
+bó	b o
+bóc	b o KP
+bói	b o Y
+bón	b o N
+bóp	b o P
+bót	b o T
+bô	b O
+bôi	b O Y
+bôm	b O M
+bông	b O NGM
+bõ	b o q
+bù	b u
+bùa	b ua
+bùi	b u Y
+bùm	b u M
+bùn	b u N
+bùng	b u NGM
+bú	b u
+búa	b ua
+búi	b u Y
+bún	b u N
+búng	b u NGM
+búp	b u P
+bút	b u T
+băm	b ae M
+băn	b ae N
+băng	b ae NG
+bĩ	b i q
+bĩu	b i q W
+bơ	b oe
+bơi	b oe Y
+bơm	b oe M
+bư	b U
+bưng	b U NG
+bưu	b U W
+bươi	b Ua Y
+bươu	b Ua W
+bước	b Ua k
+bướm	b Ua M
+bướng	b Ua NG
+bướu	b Ua W
+bưởi	b Ua Y
+bạ	b a q
+bạc	b a k
+bạch	b ae CH
+bại	b a q Y
+bạn	b a q N
+bạo	b a q W
+bạt	b a T
+bả	b a
+bản	b a N
+bảng	b a NG
+bảnh	b ae NH
+bảo	b a W
+bảy	b ae Y
+bấc	b A k
+bấm	b A M
+bất	b A T
+bấu	b A W
+bấy	b A Y
+bầm	b A M
+bần	b A N
+bầu	b A W
+bầy	b A Y
+bẩm	b A M
+bẩn	b A N
+bẩy	b A Y
+bẫy	b A q Y
+bậc	b A k
+bận	b A q N
+bật	b A T
+bậu	b A q W
+bậy	b A q Y
+bắc	b ae k
+bắn	b ae N
+bắp	b ae P
+bắt	b ae T
+bằm	b ae M
+bằng	b ae NG
+bẵm	b ae q M
+bẵng	b ae q NG
+bặt	b ae T
+bẹ	b e q
+bẹn	b e q N
+bẹo	b e q W
+bẹp	b e P
+bẹt	b e T
+bẻ	b e
+bế	b E
+bến	b E N
+bếp	b E P
+bết	b E T
+bề	b E
+bền	b E N
+bể	b E
+bển	b E N
+bệ	b E q
+bệch	b E CH
+bện	b E q N
+bệnh	b E q NH
+bệt	b E T
+bệu	b E q W
+bỉ	b i
+bỉm	b i M
+bỉnh	b i NH
+bị	b i q
+bịa	b ia q
+bịch	b i CH
+bịn	b i q N
+bịnh	b i q NH
+bịp	b i P
+bịt	b i T
+bọ	b o q
+bọc	b o KP
+bọn	b o q N
+bọng	b o q ngM
+bọp	b o P
+bọt	b o T
+bỏ	b o
+bỏng	b o NGM
+bố	b O
+bốc	b O KP
+bối	b O Y
+bốn	b O N
+bống	b O NGM
+bốp	b O P
+bốt	b O T
+bồ	b O
+bồi	b O Y
+bồn	b O N
+bồng	b O NGM
+bổ	b O
+bổi	b O Y
+bổn	b O N
+bổng	b O NGM
+bỗng	b o q ngM
+bộ	b O q
+bộc	b O KP
+bội	b O q Y
+bộn	b O q N
+bộng	b o q ngM
+bộp	b O P
+bột	b O T
+bớ	b oe
+bới	b oe Y
+bớp	b oe P
+bớt	b oe T
+bờ	b oe
+bời	b oe Y
+bờm	b oe M
+bở	b oe
+bởi	b oe Y
+bỡ	b oe q
+bỡn	b oe q N
+bợ	b oe q
+bợm	b oe q M
+bục	b u KP
+bụi	b u q Y
+bụm	b u q M
+bụng	b u q ngM
+bụt	b u T
+bủa	b ua
+bủn	b u N
+bứa	b Ua
+bức	b U k
+bứng	b U NG
+bứt	b U T
+bừa	b Ua
+bừng	b U NG
+bửa	b Ua
+bữa	b Ua q
+bự	b U q
+bựa	b Ua q
+bực	b U k
+ca	k a
+cai	k a Y
+cam	k a M
+can	k a N
+canh	k ae NH
+cao	k a W
+cau	k ae W
+cay	k ae Y
+cha	ch a
+chai	ch a Y
+chan	ch a N
+chang	ch a NG
+chanh	ch ae NH
+chao	ch a W
+chau	ch ae W
+chay	ch ae Y
+che	ch e
+chen	ch e N
+cheo	ch e W
+chi	ch i
+chia	ch ia
+chim	ch i M
+chinh	ch i NH
+chiêm	ch ia M
+chiên	ch ia N
+chiêng	ch ia NG
+chiêu	ch ia W
+chiếc	ch ia k
+chiếm	ch ia M
+chiến	ch ia N
+chiếp	ch ia P
+chiết	ch ia T
+chiếu	ch ia W
+chiền	ch ia N
+chiều	ch ia W
+cho	ch o
+choa	ch w a
+chong	ch o NGM
+choàng	ch w a NG
+choáng	ch w a NG
+choãi	ch w a q Y
+choét	ch w e T
+choắt	ch w ae T
+chu	ch u
+chua	ch ua
+chui	ch u Y
+chum	ch u M
+chung	ch u NGM
+chuyên	ch w ia N
+chuyến	ch w ia N
+chuyền	ch w ia N
+chuyển	ch w ia N
+chuyện	ch w ia q N
+chuông	ch ua NG
+chuẩn	ch w A N
+chuốc	ch ua k
+chuối	ch ua Y
+chuốt	ch ua T
+chuồn	ch ua N
+chuồng	ch ua NG
+chuỗi	ch ua q Y
+chuộc	ch ua k
+chuộng	ch ua q NG
+chuột	ch ua T
+chuỳ	ch w i
+chà	ch a
+chài	ch a Y
+chàm	ch a M
+chàng	ch a NG
+chào	ch a W
+chày	ch ae Y
+chác	ch a k
+chái	ch a Y
+chán	ch a N
+chánh	ch ae NH
+cháo	ch a W
+chát	ch a T
+cháu	ch ae W
+cháy	ch ae Y
+châm	ch A M
+chân	ch A N
+châu	ch A W
+chão	ch a q W
+chè	ch e
+chèn	ch e N
+chèo	ch e W
+ché	ch e
+chém	ch e M
+chén	ch e N
+chéo	ch e W
+chép	ch e P
+chê	ch E
+chêm	ch E M
+chênh	ch E NH
+chì	ch i
+chìa	ch ia
+chìm	ch i M
+chí	ch i
+chích	ch i CH
+chín	ch i N
+chính	ch i NH
+chíp	ch i P
+chít	ch i T
+chòa	ch w a
+chòi	ch o Y
+chòm	ch o M
+chòng	ch o NGM
+chó	ch o
+chóc	ch o KP
+chóe	ch w e
+chói	ch o Y
+chóng	ch o NGM
+chóp	ch o P
+chót	ch o T
+chôm	ch O M
+chôn	ch O N
+chông	ch O NGM
+chõ	ch o q
+chù	ch u
+chùa	ch ua
+chùi	ch u Y
+chùm	ch u M
+chùn	ch u N
+chùng	ch u NGM
+chú	ch u
+chúa	ch ua
+chúc	ch u KP
+chúi	ch u Y
+chúng	ch u NGM
+chút	ch u T
+chăm	ch ae M
+chăn	ch ae N
+chăng	ch ae NG
+chĩa	ch ia q
+chơi	ch oe Y
+chư	ch U
+chưa	ch Ua
+chưng	ch U NG
+chương	ch Ua NG
+chước	ch Ua k
+chướng	ch Ua NG
+chường	ch Ua NG
+chưởng	ch Ua NG
+chạc	ch a k
+chạm	ch a q M
+chạng	ch a q NG
+chạnh	ch ae q NH
+chạo	ch a q W
+chạp	ch a P
+chạy	ch ae q Y
+chả	ch a
+chải	ch a Y
+chảnh	ch ae NH
+chảo	ch a W
+chảy	ch ae Y
+chấm	ch A M
+chấn	ch A N
+chấp	ch A P
+chất	ch A T
+chấy	ch A Y
+chầu	ch A W
+chẩn	ch A N
+chậc	ch A k
+chậm	ch A q M
+chập	ch A P
+chật	ch A T
+chậu	ch A q W
+chắc	ch ae k
+chắn	ch ae N
+chắp	ch ae P
+chắt	ch ae T
+chằm	ch ae M
+chằn	ch ae N
+chằng	ch ae NG
+chẳng	ch ae NG
+chẵn	ch ae q N
+chặc	ch ae k
+chặn	ch ae q N
+chặng	ch ae q NG
+chặt	ch ae T
+chẹt	ch e T
+chẻ	ch e
+chẽ	ch e q
+chẽn	ch e q N
+chế	ch E
+chết	ch E T
+chệch	ch E CH
+chỉ	ch i
+chỉnh	ch i NH
+chị	ch i q
+chịch	ch i CH
+chịu	ch i q W
+chọc	ch o KP
+chọi	ch o q Y
+chọn	ch o q N
+chọt	ch o T
+chỏm	ch o M
+chốc	ch O KP
+chối	ch O Y
+chốn	ch O N
+chống	ch O NGM
+chốt	ch O T
+chồi	ch O Y
+chồm	ch O M
+chồn	ch O N
+chồng	ch O NGM
+chổi	ch O Y
+chỗ	ch O q
+chộ	ch O q
+chộp	ch O P
+chột	ch O T
+chớ	ch oe
+chớm	ch oe M
+chớp	ch oe P
+chờ	ch oe
+chờn	ch oe N
+chở	ch oe
+chợ	ch oe q
+chợp	ch oe P
+chợt	ch oe T
+chục	ch u KP
+chụm	ch u q M
+chụp	ch u P
+chụt	ch u T
+chủ	ch u
+chủng	ch u NGM
+chứ	ch U
+chứa	ch Ua
+chức	ch U k
+chứng	ch U NG
+chứt	ch U T
+chừ	ch U
+chừa	ch Ua
+chừng	ch U NG
+chử	ch U
+chửa	ch Ua
+chửi	ch U Y
+chữ	ch U q
+chữa	ch Ua q
+chững	ch U q NG
+chực	ch U k
+co	k o
+coi	k o Y
+con	k o N
+cong	k o NGM
+cu	k u
+cua	k ua
+cung	k u NGM
+cuốc	k ua k
+cuối	k ua Y
+cuốn	k ua N
+cuống	k ua NG
+cuồng	k ua NG
+cuộc	k ua k
+cuội	k ua q Y
+cuộn	k ua q N
+cà	k a
+cài	k a Y
+càn	k a N
+càng	k a NG
+cành	k ae NH
+cào	k a W
+cày	k ae Y
+cá	k a
+các	k a k
+cách	k ae CH
+cái	k a Y
+cám	k a M
+cán	k a N
+cáng	k a NG
+cánh	k ae NH
+cáo	k a W
+cáp	k a P
+cát	k a T
+cáu	k ae W
+cáy	k ae Y
+câm	k A M
+cân	k A N
+câng	k A NG
+câu	k A W
+cây	k A Y
+cãi	k a q Y
+cò	k o
+còi	k o Y
+còm	k o M
+còn	k o N
+còng	k o NGM
+có	k o
+cóc	k o KP
+cói	k o Y
+cóng	k o NGM
+cóp	k o P
+cót	k o T
+cô	k O
+côi	k O Y
+côn	k O N
+công	k O NGM
+cõi	k o q Y
+cõng	k o q ngM
+cù	k u
+cùi	k u Y
+cùm	k u M
+cùn	k u N
+cùng	k u NGM
+cú	k u
+cúc	k u KP
+cúi	k u Y
+cúm	k u M
+cún	k u N
+cúng	k u NGM
+cúp	k u P
+căm	k ae M
+căn	k ae N
+căng	k ae NG
+cũ	k u q
+cũi	k u q Y
+cũng	k u q ngM
+cơ	k oe
+cơi	k oe Y
+cơm	k oe M
+cơn	k oe N
+cư	k U
+cưa	k Ua
+cưng	k U NG
+cươi	k Ua Y
+cương	k Ua NG
+cước	k Ua k
+cưới	k Ua Y
+cướp	k Ua P
+cười	k Ua Y
+cườm	k Ua M
+cường	k Ua NG
+cưỡi	k Ua q Y
+cưỡng	k Ua q NG
+cược	k Ua k
+cạ	k a q
+cạc	k a k
+cạch	k ae CH
+cạm	k a q M
+cạn	k a q N
+cạnh	k ae q NH
+cạo	k a q W
+cạp	k a P
+cạy	k ae q Y
+cả	k a
+cải	k a Y
+cảm	k a M
+cản	k a N
+cảng	k a NG
+cảnh	k ae NH
+cấm	k A M
+cấn	k A N
+cấp	k A P
+cất	k A T
+cấu	k A W
+cấy	k A Y
+cầm	k A M
+cần	k A N
+cầu	k A W
+cầy	k A Y
+cẩm	k A M
+cẩn	k A N
+cẩu	k A W
+cận	k A q N
+cập	k A P
+cật	k A T
+cậu	k A q W
+cậy	k A q Y
+cắc	k ae k
+cắm	k ae M
+cắn	k ae N
+cắp	k ae P
+cắt	k ae T
+cằm	k ae M
+cằn	k ae N
+cẳng	k ae NG
+cặc	k ae k
+cặn	k ae q N
+cặp	k ae P
+cọ	k o q
+cọc	k o KP
+cọng	k o q ngM
+cọp	k o P
+cỏ	k o
+cỏi	k o Y
+cố	k O
+cốc	k O KP
+cối	k O Y
+cốm	k O M
+cống	k O NGM
+cốp	k O P
+cốt	k O T
+cồn	k O N
+cồng	k O NGM
+cổ	k O
+cổng	k O NGM
+cỗ	k O q
+cỗi	k O q Y
+cộ	k O q
+cộc	k O KP
+cội	k O q Y
+cộm	k O q M
+cộng	k o q ngM
+cột	k O T
+cớ	k oe
+cớm	k oe M
+cờ	k oe
+cở	k oe
+cởi	k oe Y
+cỡ	k oe q
+cỡi	k oe q Y
+cợt	k oe T
+cụ	k u q
+cục	k u KP
+cụm	k u q M
+cụng	k u q ngM
+cụp	k u P
+cụt	k u T
+củ	k u
+của	k ua
+củi	k u Y
+củng	k u NGM
+cứ	k U
+cứa	k Ua
+cứng	k U NG
+cứt	k U T
+cứu	k U W
+cừu	k U W
+cử	k U
+cửa	k Ua
+cửi	k U Y
+cửu	k U W
+cự	k U q
+cựa	k Ua q
+cực	k U k
+cựu	k U q W
+da	z a
+dai	z a Y
+dam	z a M
+dang	z a NG
+danh	z ae NH
+dao	z a W
+di	z i
+dim	z i M
+dinh	z i NH
+diêm	z ia M
+diếp	z ia P
+diết	z ia T
+diều	z ia W
+diễm	z ia q M
+diễn	z ia q N
+diệc	z ia k
+diện	z ia q N
+diệp	z ia P
+diệt	z ia T
+diệu	z ia q W
+do	z o
+doanh	z w ae NH
+dom	z o M
+don	z o N
+dong	z o NGM
+doạ	z w a q
+du	z u
+dung	z u NGM
+duy	z w i
+duyên	z w ia N
+duyệt	z w ia T
+duối	z ua Y
+duỗi	z ua q Y
+dà	z a
+dài	z a Y
+dàn	z a N
+dàng	z a NG
+dành	z ae NH
+dào	z a W
+dày	z ae Y
+dái	z a Y
+dám	z a M
+dán	z a N
+dáng	z a NG
+dát	z a T
+dâm	z A M
+dân	z A N
+dâng	z A NG
+dâu	z A W
+dây	z A Y
+dã	z a q
+dãi	z a q Y
+dãn	z a q N
+dãy	z ae q Y
+dè	z e
+dép	z e P
+dét	z e T
+dê	z E
+dì	z i
+dìm	z i M
+dìu	z i W
+dí	z i
+dím	z i M
+dính	z i NH
+dò	z o
+dòm	z o M
+dòng	z o NGM
+dóc	z o KP
+dóm	z o M
+dô	z O
+dông	z O NGM
+dõi	z o q Y
+dõng	z o q ngM
+dù	z u
+dùi	z u Y
+dùm	z u M
+dùng	z u NGM
+dúi	z u Y
+dúm	z u M
+dăk	z ae k
+dăm	z ae M
+dĩ	z i q
+dĩa	z ia q
+dũng	z u q ngM
+dơ	z oe
+dơi	z oe Y
+dơn	z oe N
+dư	z U
+dưa	z Ua
+dưng	z U NG
+dương	z Ua NG
+dưới	z Ua Y
+dường	z Ua NG
+dưỡng	z Ua q NG
+dược	z Ua k
+dượng	z Ua q NG
+dượt	z Ua T
+dạ	z a q
+dại	z a q Y
+dạn	z a q N
+dạng	z a q NG
+dạo	z a q W
+dạt	z a T
+dạy	z ae q Y
+dả	z a
+dải	z a Y
+dấn	z A N
+dấu	z A W
+dấy	z A Y
+dầm	z A M
+dần	z A N
+dầu	z A W
+dẫm	z A q M
+dẫn	z A q N
+dẫu	z A q W
+dậm	z A q M
+dập	z A P
+dậu	z A q W
+dậy	z A q Y
+dắt	z ae T
+dằm	z ae M
+dằn	z ae N
+dằng	z ae NG
+dẳng	z ae NG
+dặm	z ae q M
+dặn	z ae q N
+dẹp	z e P
+dẹt	z e T
+dẻ	z e
+dẻo	z e W
+dẽ	z e q
+dế	z E
+dề	z E
+dền	z E N
+dễ	z E q
+dệt	z E T
+dị	z i q
+dịch	z i CH
+dịp	z i P
+dịu	z i q W
+dọa	z w a q
+dọc	z o KP
+dọn	z o q N
+dỏ	z o
+dỏm	z o M
+dốc	z O KP
+dối	z O Y
+dốt	z O T
+dồi	z O Y
+dồn	z O N
+dỗ	z O q
+dỗi	z O q Y
+dộc	z O KP
+dội	z O q Y
+dộng	z o q ngM
+dột	z O T
+dớn	z oe N
+dớp	z oe P
+dớt	z oe T
+dời	z oe Y
+dờn	z oe N
+dở	z oe
+dởm	z oe M
+dỡ	z oe q
+dợm	z oe q M
+dợt	z oe T
+dụ	z u q
+dục	z u KP
+dụm	z u q M
+dụng	z u q ngM
+dụt	z u T
+dứa	z Ua
+dức	z U k
+dứt	z U T
+dừa	z Ua
+dừng	z U NG
+dử	z U
+dửng	z U NG
+dữ	z U q
+dự	z U q
+dựa	z Ua q
+dựng	z U q NG
+e	e
+em	e M
+en	e N
+eo	e W
+ga	g a
+gai	g a Y
+gam	g a M
+gan	g a N
+gang	g a NG
+ganh	g ae NH
+gay	g ae Y
+gen	g e N
+ghe	g e
+ghen	g e N
+ghi	g i
+ghim	g i M
+ghiền	g ia N
+ghè	g e
+ghèn	g e N
+ghé	g e
+ghém	g e M
+ghép	g e P
+ghét	g e T
+ghê	g E
+ghì	g i
+ghìm	g i M
+ghẹ	g e q
+ghẹo	g e q W
+ghẻ	g e
+ghế	g E
+ghề	g E
+ghềnh	g E NH
+ghệ	g E q
+ghệt	g E T
+gi	z i
+gia	z a
+giai	z a Y
+giam	z a M
+gian	z a N
+giang	z a NG
+giao	z a W
+gieo	z e W
+gio	z o
+gioan	z w a N
+giong	z o NGM
+giun	z u N
+giuộc	z ua k
+già	z a
+giàn	z a N
+giàng	z a NG
+giành	z ae NH
+giàu	z ae W
+giày	z ae Y
+giá	z a
+giác	z a k
+giám	z a M
+gián	z a N
+giáng	z a NG
+giáo	z a W
+giáp	z a P
+giáy	z ae Y
+giâm	z A M
+giây	z A Y
+giã	z a q
+giãi	z a q Y
+giãn	z a q N
+giãy	z ae q Y
+gié	z e
+giê	z ia
+giêng	z ia NG
+giò	z o
+giòi	z o Y
+giòn	z o N
+gió	z o
+gióc	z o KP
+gióng	z o NGM
+giông	z O NGM
+giùi	z u Y
+giùm	z u M
+giú	z u
+giúp	z u P
+giăm	z ae M
+giăng	z ae NG
+giũ	z u q
+giũa	z ua q
+giơ	z oe
+giương	z Ua NG
+giường	z Ua NG
+giạng	z a q NG
+giạt	z a T
+giả	z a
+giải	z a Y
+giảm	z a M
+giản	z a N
+giảng	z a NG
+giảnh	z ae NH
+giảo	z a W
+giấc	z A k
+giấm	z A M
+giất	z A T
+giấu	z A W
+giấy	z A Y
+giầm	z A M
+giầu	z A W
+giầy	z A Y
+giẫm	z A q M
+giậm	z A q M
+giận	z A q N
+giập	z A P
+giật	z A T
+giậu	z A q W
+giằm	z ae M
+giặc	z ae k
+giặt	z ae T
+giẹp	z e P
+giẻ	z e
+giếm	z ia M
+giếng	z ia NG
+giết	z ia T
+giền	z A N
+giềng	z ia NG
+giễu	z E q W
+giọi	z o q Y
+giọng	z o q ngM
+giọt	z o T
+giỏ	z o
+giỏi	z o Y
+giống	z O NGM
+giồng	z O NGM
+giỗ	z O q
+giội	z O q Y
+giới	z oe Y
+giờ	z oe
+giời	z oe Y
+giở	z oe
+giởi	z oe Y
+giỡn	z oe q N
+giụa	z ua q
+giục	z u KP
+giụi	z u q Y
+giừ	z U
+giữ	z U q
+giữa	z Ua q
+giựt	z U T
+go	g o
+gom	g o M
+goá	g w a
+gu	g u
+guốc	g ua k
+guồng	g ua NG
+gà	g a
+gài	g a Y
+gàn	g a N
+gàng	g a NG
+gào	g a W
+gàu	g ae W
+gác	g a k
+gái	g a Y
+gán	g a N
+gánh	g ae NH
+gáo	g a W
+gáp	g a P
+gáy	g ae Y
+gân	g A N
+gâu	g A W
+gây	g A Y
+gã	g a q
+gãi	g a q Y
+gãy	g ae q Y
+gì	z i
+gìa	z ia
+gìn	z i N
+gò	g o
+gòn	g o N
+góc	g o KP
+gói	g o Y
+góp	g o P
+gót	g o T
+gôm	g O M
+gôn	g O N
+gông	g O NGM
+gõ	g o q
+gù	g u
+gùi	g u Y
+gút	g u T
+găm	g ae M
+găng	g ae NG
+gũi	g u q Y
+gươm	g Ua M
+gương	g Ua NG
+gượm	g Ua q M
+gượng	g Ua q NG
+gạ	g a q
+gạc	g a k
+gạch	g ae CH
+gạo	g a q W
+gạt	g a T
+gả	g a
+gảy	g ae Y
+gấc	g A k
+gấm	g A M
+gấp	g A P
+gấu	g A W
+gấy	g A Y
+gầm	g A M
+gần	g A N
+gầy	g A Y
+gẫm	g A q M
+gẫu	g A q W
+gập	g A P
+gật	g A T
+gậy	g A q Y
+gắm	g ae M
+gắn	g ae N
+gắng	g ae NG
+gắp	g ae P
+gắt	g ae T
+gằn	g ae N
+gặm	g ae q M
+gặng	g ae q NG
+gặp	g ae P
+gặt	g ae T
+gỉ	z i
+gọi	g o q Y
+gọn	g o q N
+gọng	g o q ngM
+gọt	g o T
+gỏi	g o Y
+gốc	g O KP
+gối	g O Y
+gốm	g O M
+gồ	g O
+gồm	g O M
+gồng	g O NGM
+gỗ	g O q
+gộc	g O KP
+gội	g O q Y
+gộp	g O P
+gớm	g oe M
+gờ	g oe
+gờm	g oe M
+gở	g oe
+gởi	g oe Y
+gỡ	g oe q
+gợi	g oe q Y
+gợn	g oe q N
+gục	g u KP
+gủ	g u
+gừng	g U NG
+gửi	g U Y
+ha	h a
+hai	h a Y
+ham	h a M
+han	h a N
+hang	h a NG
+hanh	h ae NH
+hao	h a W
+hay	h ae Y
+hen	h e N
+heo	h e W
+hi	h i
+hia	h ia
+hic	h i CH
+hiu	h i W
+hiên	h ia N
+hiếm	h ia M
+hiến	h ia N
+hiếp	h ia P
+hiếu	h ia W
+hiền	h ia N
+hiểm	h ia M
+hiển	h ia N
+hiểu	h ia W
+hiện	h ia q N
+hiệp	h ia P
+hiệu	h ia q W
+ho	h o
+hoa	h w a
+hoan	h w a N
+hoang	h w a NG
+hoay	h w ae Y
+hoen	h w e N
+hoi	h o Y
+hong	h o NGM
+hot	h o T
+hoà	h w a
+hoài	h w a Y
+hoàn	h w a N
+hoàng	h w a NG
+hoành	h w ae NH
+hoá	h w a
+hoãn	h w a q N
+hoè	h w e
+hoạ	h w a q
+hoạch	h w ae CH
+hoại	h w a q Y
+hoạn	h w a q N
+hoạt	h w a T
+hoả	h w a
+hoải	h w a Y
+hoảng	h w a NG
+hoắc	h w ae k
+hoắt	h w ae T
+hoẵng	h w ae q NG
+hoặc	h w ae k
+hun	h u N
+hung	h u NGM
+huy	h w i
+huynh	h w i NH
+huyên	h w ia N
+huyết	h w ia T
+huyền	h w ia N
+huyện	h w ia q N
+huyệt	h w ia T
+huân	h w A N
+huých	h w i CH
+huýt	h w i T
+huơ	h ua
+huấn	h w A N
+huế	h w E
+huề	h w E
+huệ	h w E q
+huống	h ua NG
+huỳnh	h w i NH
+huỷ	h w i
+hy	h i
+hà	h a
+hài	h a Y
+hàm	h a M
+hàn	h a N
+hàng	h a NG
+hành	h ae NH
+hào	h a W
+hàu	h ae W
+há	h a
+hách	h ae CH
+hái	h a Y
+hán	h a N
+háng	h a NG
+háo	h a W
+hát	h a T
+hâm	h A M
+hân	h A N
+hãi	h a q Y
+hãm	h a q M
+hãn	h a q N
+hãng	h a q NG
+hãnh	h ae q NH
+hãy	h ae q Y
+hè	h e
+hèm	h e M
+hèn	h e N
+hé	h e
+héo	h e W
+hét	h e T
+hên	h E N
+hình	h i NH
+hí	h i
+hít	h i T
+hò	h o
+hòa	h w a
+hòm	h o M
+hòn	h o N
+hòng	h o NGM
+hóa	h w a
+hóc	h o KP
+hói	h o Y
+hóng	h o NGM
+hóp	h o P
+hót	h o T
+hô	h O
+hôi	h O Y
+hôm	h O M
+hôn	h O N
+hông	h O NGM
+hù	h u
+hùa	h ua
+hùm	h u M
+hùng	h u NGM
+hú	h u
+húc	h u KP
+húng	h u NGM
+húp	h u P
+hút	h u T
+hăm	h ae M
+hăng	h ae NG
+hĩm	h i q M
+hũ	h u q
+hơ	h oe
+hơi	h oe Y
+hơn	h oe N
+hư	h U
+hưng	h U NG
+hưu	h U W
+hương	h Ua NG
+hươu	h Ua W
+hước	h Ua k
+hướng	h Ua NG
+hường	h Ua NG
+hưởng	h Ua NG
+hạ	h a q
+hạc	h a k
+hạch	h ae CH
+hại	h a q Y
+hạm	h a q M
+hạn	h a q N
+hạng	h a q NG
+hạnh	h ae q NH
+hạo	h a q W
+hạp	h a P
+hạt	h a T
+hả	h a
+hải	h a Y
+hảo	h a W
+hấp	h A P
+hất	h A T
+hấu	h A W
+hầm	h A M
+hầu	h A W
+hẩy	h A Y
+hẫng	h A q NG
+hận	h A q N
+hậu	h A q W
+hắc	h ae k
+hắn	h ae N
+hắt	h ae T
+hằng	h ae NG
+hẳn	h ae N
+hẳng	h ae NG
+hẵng	h ae q NG
+hẹ	h e q
+hẹn	h e q N
+hẹp	h e P
+hẻm	h e M
+hếch	h E CH
+hến	h E N
+hết	h E T
+hề	h E
+hển	h E N
+hễ	h E q
+hệ	h E q
+hệch	h E CH
+hệt	h E T
+hỉ	h i
+hịch	h i CH
+họ	h o q
+họa	h w a q
+học	h o KP
+họng	h o q ngM
+họp	h o P
+hỏ	h o
+hỏa	h w a
+hỏi	h o Y
+hỏn	h o N
+hỏng	h o NGM
+hố	h O
+hốc	h O KP
+hối	h O Y
+hống	h O NGM
+hốt	h O T
+hồ	h O
+hồi	h O Y
+hồn	h O N
+hồng	h O NGM
+hổ	h O
+hổi	h O Y
+hổm	h O M
+hổn	h O N
+hổng	h O NGM
+hỗ	h O q
+hỗn	h O q N
+hộ	h O q
+hộc	h O KP
+hội	h O q Y
+hộp	h O P
+hột	h O T
+hớ	h oe
+hớn	h oe N
+hớp	h oe P
+hớt	h oe T
+hờ	h oe
+hời	h oe Y
+hờn	h oe N
+hở	h oe
+hởi	h oe Y
+hỡi	h oe q Y
+hợi	h oe q Y
+hợm	h oe q M
+hợp	h oe P
+hụ	h u q
+hục	h u KP
+hụi	h u q Y
+hụp	h u P
+hụt	h u T
+hủ	h u
+hủy	h u Y
+hứa	h Ua
+hức	h U k
+hứng	h U NG
+hừng	h U NG
+hử	h U
+hửi	h U Y
+hửng	h U NG
+hững	h U q NG
+hữu	h U q W
+hực	h U k
+i	i
+im	i M
+in	i N
+inh	i NH
+iu	i W
+ke	k e
+kem	k e M
+ken	k e N
+keng	k e NG
+keo	k e W
+kha	kh a
+khai	kh a Y
+khan	kh a N
+khang	kh a NG
+khanh	kh ae NH
+khao	kh a W
+khay	kh ae Y
+khe	kh e
+khen	kh e N
+khi	kh i
+khinh	kh i NH
+khiêm	kh ia M
+khiên	kh ia N
+khiêng	kh ia NG
+khiêu	kh ia W
+khiếm	kh ia M
+khiến	kh ia N
+khiếp	kh ia P
+khiết	kh ia T
+khiếu	kh ia W
+khiển	kh ia N
+khiễng	kh ia q NG
+kho	kh o
+khoa	kh w a
+khoai	kh w a Y
+khoan	kh w a N
+khoang	kh w a NG
+khoanh	kh w ae NH
+khoe	kh w e
+khoeo	kh w e W
+khom	kh o M
+khoá	kh w a
+khoác	kh w a k
+khoái	kh w a Y
+khoán	kh w a N
+khoáng	kh w a NG
+khoát	kh w a T
+khoé	kh w e
+khoét	kh w e T
+khoăn	kh w ae N
+khoả	kh w a
+khoải	kh w a Y
+khoản	kh w a N
+khoảng	kh w a NG
+khoảnh	kh w ae NH
+khoắn	kh w ae N
+khoằm	kh w ae M
+khoẻ	kh w e
+khu	kh u
+khua	kh ua
+khui	kh u Y
+khum	kh u M
+khung	kh u NGM
+khuy	kh w i
+khuya	kh w ia
+khuynh	kh w i NH
+khuyên	kh w ia N
+khuyến	kh w ia N
+khuyết	kh w ia T
+khuân	kh w A N
+khuâng	kh w A NG
+khuây	kh w A Y
+khuê	kh w E
+khuôn	kh ua N
+khuất	kh w A T
+khuấy	kh w A Y
+khuẩn	kh w A N
+khuếch	kh w E CH
+khuỷu	kh w i W
+khàn	kh a N
+khàng	kh a NG
+khá	kh a
+khác	kh a k
+khách	kh ae CH
+khái	kh a Y
+khám	kh a M
+khán	kh a N
+kháng	kh a NG
+khánh	kh ae NH
+khát	kh a T
+kháy	kh ae Y
+khâm	kh A M
+khâu	kh A W
+khé	kh e
+khéo	kh e W
+khép	kh e P
+khét	kh e T
+khê	kh E
+khêu	kh E W
+khí	kh i
+khía	kh ia
+khích	kh i CH
+khít	kh i T
+khó	kh o
+khóa	kh w a
+khóc	kh o KP
+khóe	kh w e
+khói	kh o Y
+khóm	kh o M
+khô	kh O
+khôi	kh O Y
+khôn	kh O N
+không	kh O NGM
+khùng	kh u NGM
+khúc	kh u KP
+khăm	kh ae M
+khăn	kh ae N
+khăng	kh ae NG
+khơi	kh oe Y
+khương	kh Ua NG
+khạc	kh a k
+khạo	kh a q W
+khả	kh a
+khải	kh a Y
+khảnh	kh ae NH
+khảo	kh a W
+khảy	kh ae Y
+khấn	kh A N
+khất	kh A T
+khấu	kh A W
+khẩn	kh A N
+khẩu	kh A W
+khập	kh A P
+khắc	kh ae k
+khắm	kh ae M
+khắng	kh ae NG
+khắp	kh ae P
+khắt	kh ae T
+khẳm	kh ae M
+khẳn	kh ae N
+khẳng	kh ae NG
+khẹc	kh e k
+khẽ	kh e q
+khế	kh E
+khều	kh E W
+khểnh	kh E NH
+khỉ	kh i
+khịt	kh i T
+khỏ	kh o
+khỏa	kh w a
+khỏe	kh w e
+khỏi	kh o Y
+khố	kh O
+khốc	kh O KP
+khối	kh O Y
+khốn	kh O N
+khống	kh O NGM
+khổ	kh O
+khổng	kh O NGM
+khớp	kh oe P
+khờ	kh oe
+khởi	kh oe Y
+khủng	kh u NGM
+khứ	kh U
+khứa	kh Ua
+khứng	kh U NG
+khử	kh U
+khựng	kh U q NG
+ki	k i
+kia	k ia
+kim	k i M
+kinh	k i NH
+kiêm	k ia M
+kiên	k ia N
+kiêng	k ia NG
+kiêu	k ia W
+kiếm	k ia M
+kiến	k ia N
+kiếng	k ia NG
+kiếp	k ia P
+kiết	k ia T
+kiếu	k ia W
+kiềm	k ia M
+kiều	k ia W
+kiểm	k ia M
+kiểng	k ia NG
+kiểu	k ia W
+kiệm	k ia q M
+kiện	k ia q N
+kiệt	k ia T
+kiệu	k ia q W
+kong	k o NGM
+ku	k u
+kè	k e
+kèm	k e M
+kèn	k e N
+kèo	k e W
+ké	k e
+kém	k e M
+kén	k e N
+kéo	k e W
+kép	k e P
+két	k e T
+kê	k E
+kênh	k E NH
+kêu	k E W
+kì	k i
+kìa	k ia
+kìm	k i M
+kình	k i NH
+kí	k i
+kích	k i CH
+kín	k i N
+kính	k i NH
+kíp	k i P
+kông	k O NGM
+ký	k i
+kĩ	k i q
+kẹc	k e k
+kẹo	k e q W
+kẹp	k e P
+kẹt	k e T
+kẻ	k e
+kẻng	k e NG
+kẻo	k e W
+kẽ	k e q
+kẽm	k e q M
+kế	k E
+kếch	k E CH
+kết	k E T
+kề	k E
+kềm	k E M
+kền	k E N
+kềnh	k E NH
+kể	k E
+kệ	k E q
+kệch	k E CH
+kệt	k E T
+kỉ	k i
+kị	k i q
+kịch	k i CH
+kịp	k i P
+kớ	k oe
+kỳ	k i
+kỵ	k i q
+kỷ	k i
+kỹ	k i q
+la	l a
+lai	l a Y
+lam	l a M
+lan	l a N
+lang	l a NG
+lanh	l ae NH
+lao	l a W
+lat	l a T
+lau	l ae W
+lay	l ae Y
+le	l e
+lem	l e M
+len	l e N
+leo	l e W
+li	l i
+lia	l ia
+lim	l i M
+linh	l i NH
+liu	l i W
+liêm	l ia M
+liên	l ia N
+liêng	l ia NG
+liêu	l ia W
+liếc	l ia k
+liếm	l ia M
+liềm	l ia M
+liền	l ia N
+liều	l ia W
+liễu	l ia q W
+liện	l ia q N
+liệng	l ia q NG
+liệt	l ia T
+liệu	l ia q W
+lo	l o
+loa	l w a
+loan	l w a N
+loang	l w a NG
+loay	l w ae Y
+lon	l o N
+long	l o NGM
+loà	l w a
+loài	l w a Y
+loàn	l w a N
+loá	l w a
+loán	l w a N
+loãng	l w a q NG
+loè	l w e
+loé	l w e
+loét	l w e T
+loại	l w a q Y
+loạn	l w a q N
+loạt	l w a T
+lu	l u
+lui	l u Y
+lung	l u NGM
+luyến	l w ia N
+luyện	l w ia q N
+luân	l w A N
+luôn	l ua N
+luận	l w A q N
+luật	l w A T
+luốc	l ua k
+luống	l ua NG
+luồn	l ua N
+luồng	l ua NG
+luộc	l ua k
+luỹ	l w i q
+ly	l i
+là	l a
+lài	l a Y
+làm	l a M
+làn	l a N
+làng	l a NG
+lành	l ae NH
+lào	l a W
+lá	l a
+lác	l a k
+lách	l ae CH
+lái	l a Y
+lán	l a N
+láng	l a NG
+lánh	l ae NH
+láo	l a W
+lát	l a T
+láy	l ae Y
+lâm	l A M
+lân	l A N
+lâu	l A W
+lây	l A Y
+lãi	l a q Y
+lãm	l a q M
+lãng	l a q NG
+lãnh	l ae q NH
+lão	l a q W
+lè	l e
+lé	l e
+lén	l e N
+léo	l e W
+lép	l e P
+lét	l e T
+lê	l E
+lên	l E N
+lênh	l E NH
+lêu	l E W
+lì	l i
+lìa	l ia
+lìm	l i M
+lìn	l i N
+lí	l i
+lính	l i NH
+líp	l i P
+lít	l i T
+líu	l i W
+lò	l o
+lòi	l o Y
+lòm	l o M
+lòn	l o N
+lòng	l o NGM
+ló	l o
+lóc	l o KP
+lóng	l o NGM
+lót	l o T
+lô	l O
+lôi	l O Y
+lông	l O NGM
+lõ	l o q
+lõi	l o q Y
+lõm	l o q M
+lõng	l o q ngM
+lù	l u
+lùa	l ua
+lùi	l u Y
+lùm	l u M
+lùn	l u N
+lùng	l u NGM
+lú	l u
+lúa	l ua
+lúc	l u KP
+lún	l u N
+lúng	l u NGM
+lý	l i
+lăk	l ae k
+lăm	l ae M
+lăn	l ae N
+lăng	l ae NG
+lĩnh	l i q NH
+lũ	l u q
+lũng	l u q ngM
+lũy	l u q Y
+lơ	l oe
+lơi	l oe Y
+lơn	l oe N
+lư	l U
+lưng	l U NG
+lưu	l U W
+lươn	l Ua N
+lương	l Ua NG
+lưới	l Ua Y
+lướt	l Ua T
+lười	l Ua Y
+lườm	l Ua M
+lườn	l Ua N
+lường	l Ua NG
+lưỡi	l Ua q Y
+lưỡng	l Ua q NG
+lược	l Ua k
+lượm	l Ua q M
+lượn	l Ua q N
+lượng	l Ua q NG
+lượt	l Ua T
+lạ	l a q
+lạc	l a k
+lạch	l ae CH
+lại	l a q Y
+lạm	l a q M
+lạng	l a q NG
+lạnh	l ae q NH
+lạp	l a P
+lạt	l a T
+lạy	l ae q Y
+lả	l a
+lảng	l a NG
+lảo	l a W
+lấm	l A M
+lấn	l A N
+lấp	l A P
+lấy	l A Y
+lầm	l A M
+lần	l A N
+lầu	l A W
+lầy	l A Y
+lẩm	l A M
+lẩn	l A N
+lẩu	l A W
+lẩy	l A Y
+lẫm	l A q M
+lẫn	l A q N
+lẫy	l A q Y
+lận	l A q N
+lập	l A P
+lật	l A T
+lậu	l A q W
+lắc	l ae k
+lắm	l ae M
+lắng	l ae NG
+lắp	l ae P
+lằn	l ae N
+lẳng	l ae NG
+lẵng	l ae q NG
+lặn	l ae q N
+lặng	l ae q NG
+lặp	l ae P
+lặt	l ae T
+lẹ	l e q
+lẹo	l e q W
+lẻ	l e
+lẻn	l e N
+lẽ	l e q
+lẽo	l e q W
+lết	l E T
+lề	l E
+lềnh	l E NH
+lều	l E W
+lễ	l E q
+lệ	l E q
+lệch	l E CH
+lệnh	l E q NH
+lỉnh	l i NH
+lị	l i q
+lịa	l ia q
+lịch	l i CH
+lịm	l i q M
+lọ	l o q
+lọc	l o KP
+lọi	l o q Y
+lọn	l o q N
+lọng	l o q ngM
+lọt	l o T
+lỏi	l o Y
+lỏm	l o M
+lỏng	l o NGM
+lố	l O
+lốc	l O KP
+lối	l O Y
+lốp	l O P
+lốt	l O T
+lồ	l O
+lồi	l O Y
+lồn	l O N
+lồng	l O NGM
+lỗ	l O q
+lỗi	l O q Y
+lộ	l O q
+lộc	l O KP
+lội	l O q Y
+lộn	l O q N
+lộng	l o q ngM
+lộp	l O P
+lột	l O T
+lớn	l oe N
+lớp	l oe P
+lờ	l oe
+lời	l oe Y
+lờn	l oe N
+lở	l oe
+lởi	l oe Y
+lỡ	l oe q
+lợi	l oe q Y
+lợm	l oe q M
+lợn	l oe q N
+lợp	l oe P
+lụa	l ua q
+lục	l u KP
+lụm	l u q M
+lụt	l u T
+lụy	l u q Y
+lủi	l u Y
+lủng	l u NGM
+lứa	l Ua
+lức	l U k
+lừa	l Ua
+lừng	l U NG
+lửa	l Ua
+lửng	l U NG
+lữ	l U q
+lữa	l Ua q
+lự	l U q
+lựa	l Ua q
+lực	l U k
+lựu	l U q W
+ma	m a
+mai	m a Y
+man	m a N
+mang	m a NG
+manh	m ae NH
+mau	m ae W
+may	m ae Y
+me	m e
+men	m e N
+meo	m e W
+mi	m i
+min	m i N
+minh	m i NH
+miu	m i W
+miên	m ia N
+miêu	m ia W
+miến	m ia N
+miếng	m ia NG
+miết	m ia T
+miếu	m ia W
+miền	m ia N
+miểng	m ia NG
+miễn	m ia q N
+miện	m ia q N
+miệng	m ia q NG
+miệt	m ia T
+mo	m o
+moa	m w a
+moi	m o Y
+mong	m o NGM
+moóc	m o k
+moạ	m w a q
+moả	m w a
+mu	m u
+mua	m ua
+mui	m u Y
+mun	m u N
+muôi	m ua Y
+muôn	m ua N
+muông	m ua NG
+muối	m ua Y
+muốn	m ua N
+muống	m ua NG
+muỗi	m ua q Y
+muỗng	m ua q NG
+muội	m ua q Y
+muộn	m ua q N
+mà	m a
+mài	m a Y
+màn	m a N
+màng	m a NG
+mành	m ae NH
+mào	m a W
+màu	m ae W
+mày	m ae Y
+má	m a
+mác	m a k
+mách	m ae CH
+mái	m a Y
+mán	m a N
+máng	m a NG
+mánh	m ae NH
+máo	m a W
+mát	m a T
+máu	m ae W
+máy	m ae Y
+mâm	m A M
+mân	m A N
+mâu	m A W
+mây	m A Y
+mã	m a q
+mãi	m a q Y
+mãn	m a q N
+mãnh	m ae q NH
+mão	m a q W
+mãu	m ae q W
+mè	m e
+mèm	m e M
+mèo	m e W
+mé	m e
+méc	m e k
+mén	m e N
+méo	m e W
+mép	m e P
+mét	m e T
+mê	m E
+mênh	m E NH
+mì	m i
+mìn	m i N
+mình	m i NH
+mí	m i
+mía	m ia
+mím	m i M
+mít	m i T
+mò	m o
+mòi	m o Y
+mòn	m o N
+mòng	m o NGM
+mó	m o
+móc	m o KP
+móm	m o M
+món	m o N
+móng	m o NGM
+móp	m o P
+mót	m o T
+mô	m O
+môi	m O Y
+môn	m O N
+mông	m O NGM
+mõ	m o q
+mù	m u
+mùa	m ua
+mùi	m u Y
+mùn	m u N
+mùng	m u NGM
+múa	m ua
+múc	m u KP
+múi	m u Y
+múp	m u P
+mút	m u T
+măm	m ae M
+măng	m ae NG
+mĩ	m i q
+mũ	m u q
+mũi	m u q Y
+mơ	m oe
+mơn	m oe N
+mưa	m Ua
+mưu	m U W
+mươi	m Ua Y
+mương	m Ua NG
+mướn	m Ua N
+mướp	m Ua P
+mướt	m Ua T
+mười	m Ua Y
+mường	m Ua NG
+mượn	m Ua q N
+mượt	m Ua T
+mạ	m a q
+mạc	m a k
+mạch	m ae CH
+mại	m a q Y
+mạn	m a q N
+mạng	m a q NG
+mạnh	m ae q NH
+mạo	m a q W
+mạt	m a T
+mả	m a
+mải	m a Y
+mảng	m a NG
+mảnh	m ae NH
+mảy	m ae Y
+mấn	m A N
+mất	m A T
+mấu	m A W
+mấy	m A Y
+mầm	m A M
+mần	m A N
+mầu	m A W
+mầy	m A Y
+mẩn	m A N
+mẩu	m A W
+mẩy	m A Y
+mẫn	m A q N
+mẫu	m A q W
+mận	m A q N
+mập	m A P
+mật	m A T
+mậu	m A q W
+mắc	m ae k
+mắm	m ae M
+mắn	m ae N
+mắng	m ae NG
+mắt	m ae T
+mẳn	m ae N
+mặc	m ae k
+mặn	m ae q N
+mặt	m ae T
+mẹ	m e q
+mẹo	m e q W
+mẻ	m e
+mẽ	m e q
+mến	m E N
+mếu	m E W
+mề	m E
+mềm	m E M
+mền	m E N
+mễ	m E q
+mệ	m E q
+mệnh	m E q NH
+mệt	m E T
+mỉ	m i
+mỉa	m ia
+mỉm	m i M
+mị	m i q
+mịn	m i q N
+mịt	m i T
+mọc	m o KP
+mọi	m o q Y
+mọn	m o q N
+mọng	m o q ngM
+mọt	m o T
+mỏ	m o
+mỏi	m o Y
+mỏng	m o NGM
+mốc	m O KP
+mối	m O Y
+mống	m O NGM
+mốt	m O T
+mồ	m O
+mồi	m O Y
+mồm	m O M
+mồng	m O NGM
+mổ	m O
+mỗi	m O q Y
+mộ	m O q
+mộc	m O KP
+mộng	m o q ngM
+một	m O T
+mớ	m oe
+mới	m oe Y
+mớm	m oe M
+mờ	m oe
+mời	m oe Y
+mở	m oe
+mỡ	m oe q
+mợ	m oe q
+mụ	m u q
+mục	m u KP
+mụn	m u q N
+mụp	m u P
+mụt	m u T
+mủ	m u
+mủi	m u Y
+mủn	m u N
+mứa	m Ua
+mức	m U k
+mứt	m U T
+mừng	m U NG
+mửa	m Ua
+mực	m U k
+mỹ	m i q
+na	n a
+nai	n a Y
+nam	n a M
+nan	n a N
+nang	n a NG
+nanh	n ae NH
+nao	n a W
+nay	n ae Y
+nem	n e M
+neo	n e W
+neon	n e W
+net	n e T
+nga	ng a
+ngai	ng a Y
+ngan	ng a N
+ngang	ng a NG
+ngao	ng a W
+ngay	ng ae Y
+nghe	ng e
+nghen	ng e N
+nghi	ng i
+nghiêm	ng ia M
+nghiên	ng ia N
+nghiêng	ng ia NG
+nghiếm	ng ia M
+nghiến	ng ia N
+nghiềm	ng ia M
+nghiền	ng ia N
+nghiệm	ng ia q M
+nghiện	ng ia q N
+nghiệp	ng ia P
+nghiệt	ng ia T
+nghè	ng e
+nghèo	ng e W
+nghé	ng e
+nghén	ng e N
+nghê	ng E
+nghênh	ng E NH
+nghêu	ng E W
+nghìm	ng i M
+nghìn	ng i N
+nghía	ng ia
+nghĩ	ng i q
+nghĩa	ng ia q
+nghĩnh	ng i q NH
+nghẹ	ng e q
+nghẹn	ng e q N
+nghẹo	ng e q W
+nghẹt	ng e T
+nghẽn	ng e q N
+nghếch	ng E CH
+nghề	ng E
+nghệ	ng E q
+nghỉ	ng i
+nghị	ng i q
+nghịch	ng i CH
+nghịt	ng i T
+nghịu	ng i q W
+ngoa	ng w a
+ngoan	ng w a N
+ngoc	ng o KP
+ngoi	ng o Y
+ngon	ng o N
+ngoài	ng w a Y
+ngoái	ng w a Y
+ngoáy	ng w ae Y
+ngoãn	ng w a q N
+ngoèo	ng w e W
+ngoé	ng w e
+ngoém	ng w e M
+ngoại	ng w a q Y
+ngoạm	ng w a q M
+ngoạn	ng w a q N
+ngoải	ng w a Y
+ngoảnh	ng w ae NH
+ngoảy	ng w ae Y
+ngoắc	ng w ae k
+ngoắt	ng w ae T
+ngoằn	ng w ae N
+ngoẵng	ng w ae q NG
+ngoặc	ng w ae k
+ngoặt	ng w ae T
+ngoẹo	ng w e q W
+ngu	ng u
+nguy	ng w i
+nguyên	ng w ia N
+nguyền	ng w ia N
+nguyển	ng w ia N
+nguyễn	ng w ia q N
+nguyện	ng w ia q N
+nguyệt	ng w ia T
+nguôi	ng ua Y
+nguồn	ng ua N
+nguội	ng ua q Y
+nguỵ	ng w i q
+ngà	ng a
+ngài	ng a Y
+ngàn	ng a N
+ngành	ng ae NH
+ngào	ng a W
+ngày	ng ae Y
+ngác	ng a k
+ngách	ng ae CH
+ngái	ng a Y
+ngám	ng a M
+ngán	ng a N
+ngáo	ng a W
+ngáp	ng a P
+ngát	ng a T
+ngáy	ng ae Y
+ngâm	ng A M
+ngân	ng A N
+ngâu	ng A W
+ngây	ng A Y
+ngã	ng a q
+ngãi	ng a q Y
+ngò	ng o
+ngòi	ng o Y
+ngó	ng o
+ngóc	ng o KP
+ngói	ng o Y
+ngón	ng o N
+ngóng	ng o NGM
+ngót	ng o T
+ngô	ng O
+ngôi	ng O Y
+ngôn	ng O N
+ngông	ng O NGM
+ngõ	ng o q
+ngõi	ng o q Y
+ngù	ng u
+ngùi	ng u Y
+ngùng	ng u NGM
+ngút	ng u T
+ngăm	ng ae M
+ngăn	ng ae N
+ngũ	ng u q
+ngơ	ng oe
+ngơi	ng oe Y
+ngư	ng U
+ngưng	ng U NG
+ngươi	ng Ua Y
+ngước	ng Ua k
+người	ng Ua Y
+ngưỡng	ng Ua q NG
+ngược	ng Ua k
+ngượng	ng Ua q NG
+ngạc	ng a k
+ngại	ng a q Y
+ngạo	ng a q W
+ngạt	ng a T
+ngả	ng a
+ngải	ng a Y
+ngấm	ng A M
+ngấn	ng A N
+ngất	ng A T
+ngấu	ng A W
+ngấy	ng A Y
+ngầm	ng A M
+ngần	ng A N
+ngầu	ng A W
+ngẩm	ng A M
+ngẩn	ng A N
+ngẩng	ng A NG
+ngẫm	ng A q M
+ngẫu	ng A q W
+ngậm	ng A q M
+ngập	ng A P
+ngậy	ng A q Y
+ngắm	ng ae M
+ngắn	ng ae N
+ngắt	ng ae T
+ngặt	ng ae T
+ngọ	ng o q
+ngọc	ng o KP
+ngọn	ng o q N
+ngọng	ng o q ngM
+ngọt	ng o T
+ngỏ	ng o
+ngố	ng O
+ngốc	ng O KP
+ngốn	ng O N
+ngồi	ng O Y
+ngổn	ng O N
+ngỗng	ng o q ngM
+ngộ	ng O q
+ngộp	ng O P
+ngột	ng O T
+ngớ	ng oe
+ngớp	ng oe P
+ngớt	ng oe T
+ngờ	ng oe
+ngời	ng oe Y
+ngỡ	ng oe q
+ngợi	ng oe q Y
+ngợm	ng oe q M
+ngợp	ng oe P
+ngụ	ng u q
+ngục	ng u KP
+ngụm	ng u q M
+ngụp	ng u P
+ngụy	ng u q Y
+ngủ	ng u
+ngủi	ng u Y
+ngủm	ng u M
+ngủn	ng u N
+ngứa	ng Ua
+ngừ	ng U
+ngừa	ng Ua
+ngừng	ng U NG
+ngửa	ng Ua
+ngửi	ng U Y
+ngữ	ng U q
+ngự	ng U q
+ngựa	ng Ua q
+ngực	ng U k
+nha	nh a
+nhai	nh a Y
+nhan	nh a N
+nhang	nh a NG
+nhanh	nh ae NH
+nhao	nh a W
+nhat	nh a T
+nhau	nh ae W
+nhe	nh e
+nheo	nh e W
+nhi	nh i
+nhiên	nh ia N
+nhiêu	nh ia W
+nhiếc	nh ia k
+nhiếp	nh ia P
+nhiều	nh ia W
+nhiễm	nh ia q M
+nhiễu	nh ia q W
+nhiệm	nh ia q M
+nhiệt	nh ia T
+nho	nh o
+nhoi	nh o Y
+nhoà	nh w a
+nhoáng	nh w a NG
+nhoét	nh w e T
+nhoẻn	nh w e N
+nhu	nh u
+nhung	nh u NGM
+nhuyễn	nh w ia q N
+nhuận	nh w A q N
+nhuốm	nh ua M
+nhuộm	nh ua q M
+nhuỵ	nh w i q
+nhà	nh a
+nhài	nh a Y
+nhàm	nh a M
+nhàn	nh a N
+nhàng	nh a NG
+nhành	nh ae NH
+nhào	nh a W
+nhàu	nh ae W
+nhá	nh a
+nhác	nh a k
+nhách	nh ae CH
+nhái	nh a Y
+nhám	nh a M
+nhánh	nh ae NH
+nháo	nh a W
+nháp	nh a P
+nhát	nh a T
+nháy	nh ae Y
+nhâm	nh A M
+nhân	nh A N
+nhât	nh A T
+nhây	nh A Y
+nhã	nh a q
+nhãi	nh a q Y
+nhãn	nh a q N
+nhãng	nh a q NG
+nhão	nh a q W
+nhè	nh e
+nhé	nh e
+nhéo	nh e W
+nhép	nh e P
+nhét	nh e T
+nhì	nh i
+nhìn	nh i N
+nhí	nh i
+nhích	nh i CH
+nhím	nh i M
+nhíp	nh i P
+nhít	nh i T
+nhíu	nh i W
+nhòm	nh o M
+nhóc	nh o KP
+nhói	nh o Y
+nhóm	nh o M
+nhón	nh o N
+nhót	nh o T
+nhô	nh O
+nhôm	nh O M
+nhông	nh O NGM
+nhôông	nh O NG
+nhú	nh u
+nhúc	nh u KP
+nhúm	nh u M
+nhún	nh u N
+nhúng	nh u NGM
+nhút	nh u T
+nhăm	nh ae M
+nhăn	nh ae N
+nhăng	nh ae NG
+nhĩ	nh i q
+nhũn	nh u q N
+nhũng	nh u q ngM
+nhơ	nh oe
+nhơi	nh oe Y
+nhơn	nh oe N
+như	nh U
+nhưng	nh U NG
+nhướn	nh Ua N
+nhường	nh Ua NG
+nhược	nh Ua k
+nhượng	nh Ua q NG
+nhạc	nh a k
+nhại	nh a q Y
+nhạn	nh a q N
+nhạo	nh a q W
+nhạt	nh a T
+nhạy	nh ae q Y
+nhả	nh a
+nhảm	nh a M
+nhảy	nh ae Y
+nhấc	nh A k
+nhấm	nh A M
+nhấn	nh A N
+nhấp	nh A P
+nhất	nh A T
+nhầm	nh A M
+nhầy	nh A Y
+nhẩm	nh A M
+nhẫn	nh A q N
+nhậm	nh A q M
+nhận	nh A q N
+nhập	nh A P
+nhật	nh A T
+nhậu	nh A q W
+nhắc	nh ae k
+nhắm	nh ae M
+nhắn	nh ae N
+nhắt	nh ae T
+nhằm	nh ae M
+nhằn	nh ae N
+nhằng	nh ae NG
+nhẵn	nh ae q N
+nhặng	nh ae q NG
+nhặt	nh ae T
+nhẹ	nh e q
+nhẹn	nh e q N
+nhẹp	nh e P
+nhẽo	nh e q W
+nhếch	nh E CH
+nhể	nh E
+nhễ	nh E q
+nhện	nh E q N
+nhỉ	nh i
+nhỉnh	nh i NH
+nhị	nh i q
+nhịn	nh i q N
+nhịp	nh i P
+nhọ	nh o q
+nhọc	nh o KP
+nhọn	nh o q N
+nhọt	nh o T
+nhỏ	nh o
+nhỏng	nh o NGM
+nhố	nh O
+nhối	nh O Y
+nhốt	nh O T
+nhồi	nh O Y
+nhổ	nh O
+nhổm	nh O M
+nhộn	nh O q N
+nhộng	nh o q ngM
+nhột	nh O T
+nhớ	nh oe
+nhớn	nh oe N
+nhớp	nh oe P
+nhớt	nh oe T
+nhờ	nh oe
+nhời	nh oe Y
+nhờn	nh oe N
+nhở	nh oe
+nhởi	nh oe Y
+nhỡ	nh oe q
+nhợn	nh oe q N
+nhợt	nh oe T
+nhục	nh u KP
+nhủ	nh u
+nhủi	nh u Y
+nhức	nh U k
+nhừ	nh U
+nhử	nh U
+những	nh U q NG
+nhựa	nh Ua q
+ni	n i
+ninh	n i NH
+niu	n i W
+niêm	n ia M
+niên	n ia N
+niêu	n ia W
+niềm	n ia M
+niền	n ia N
+niềng	n ia NG
+niễng	n ia q NG
+niệm	n ia q M
+niệt	n ia T
+no	n o
+noi	n o Y
+nom	n o M
+non	n o N
+nong	n o NGM
+noãn	n w a q N
+nui	n u Y
+nung	n u NGM
+nuy	n w i
+nuôi	n ua Y
+nuối	n ua Y
+nuốt	n ua T
+nuột	n ua T
+ny	n i
+nài	n a Y
+nàn	n a N
+nàng	n a NG
+nành	n ae NH
+nào	n a W
+này	n ae Y
+ná	n a
+nách	n ae CH
+nái	n a Y
+nám	n a M
+nán	n a N
+náng	n a NG
+náo	n a W
+nát	n a T
+náu	n ae W
+nâng	n A NG
+nâu	n A W
+nã	n a q
+não	n a q W
+nãy	n ae q Y
+nè	n e
+né	n e
+ném	n e M
+nén	n e N
+nép	n e P
+nét	n e T
+nê	n E
+nêm	n E M
+nên	n E N
+nêu	n E W
+ních	n i CH
+nín	n i N
+níu	n i W
+nòi	n o Y
+nòng	n o NGM
+nó	n o
+nóc	n o KP
+nói	n o Y
+nón	n o N
+nóng	n o NGM
+nô	n O
+nôi	n O Y
+nôm	n O M
+nôn	n O N
+nông	n O NGM
+nõ	n o q
+nõn	n o q N
+nùi	n u Y
+nùng	n u NGM
+núc	n u KP
+núi	n u Y
+núm	n u M
+núp	n u P
+nút	n u T
+năm	n ae M
+năng	n ae NG
+nĩa	n ia q
+nơ	n oe
+nơi	n oe Y
+nương	n Ua NG
+nước	n Ua k
+nướng	n Ua NG
+nướu	n Ua W
+nười	n Ua Y
+nườm	n Ua M
+nượp	n Ua P
+nạ	n a q
+nạc	n a k
+nại	n a q Y
+nạm	n a q M
+nạn	n a q N
+nạng	n a q NG
+nạo	n a q W
+nạp	n a P
+nạt	n a T
+nạy	n ae q Y
+nải	n a Y
+nản	n a N
+nảy	n ae Y
+nấc	n A k
+nấm	n A M
+nấp	n A P
+nấu	n A W
+nấy	n A Y
+nần	n A N
+nầy	n A Y
+nẩu	n A W
+nẩy	n A Y
+nẫu	n A q W
+nập	n A P
+nậy	n A q Y
+nắm	n ae M
+nắn	n ae N
+nắng	n ae NG
+nắp	n ae P
+nằm	n ae M
+nằng	n ae NG
+nẳm	n ae M
+nẵng	n ae q NG
+nặc	n ae k
+nặn	n ae q N
+nặng	n ae q NG
+nẹp	n e P
+nẻ	n e
+nẻo	n e W
+nếm	n E M
+nến	n E N
+nếp	n E P
+nết	n E T
+nếu	n E W
+nề	n E
+nền	n E N
+nể	n E
+nệm	n E q M
+nện	n E q N
+nỉ	n i
+nịch	n i CH
+nịnh	n i q NH
+nịt	n i T
+nọ	n o q
+nọc	n o KP
+nọng	n o q ngM
+nỏ	n o
+nốc	n O KP
+nối	n O Y
+nốt	n O T
+nồi	n O Y
+nồng	n O NGM
+nổ	n O
+nổi	n O Y
+nỗ	n O q
+nỗi	n O q Y
+nộ	n O q
+nội	n O q Y
+nộm	n O q M
+nộp	n O P
+nớ	n oe
+nới	n oe Y
+nở	n oe
+nỡ	n oe q
+nợ	n oe q
+nụ	n u q
+nứa	n Ua
+nức	n U k
+nứng	n U NG
+nứt	n U T
+nừng	n U NG
+nửa	n Ua
+nữ	n U q
+nữa	n Ua q
+nực	n U k
+nựng	n U q NG
+o	o
+oai	w a Y
+oan	w a N
+oanh	w ae NH
+oi	o Y
+ok	o KP
+om	o M
+ong	o NGM
+oà	w a
+oách	w ae CH
+oái	w a Y
+oán	w a N
+oóc	o k
+oải	w a Y
+oắt	w ae T
+oằn	w ae N
+oẳng	w ae NG
+oặt	w ae T
+pa	b a
+panh	b ae NH
+pao	b a W
+pha	f a
+phai	f a Y
+phan	f a N
+phang	f a NG
+phanh	f ae NH
+phao	f a W
+phau	f ae W
+phay	f ae Y
+phe	f e
+phen	f e N
+pheng	f e NG
+phi	f i
+phim	f i M
+phin	f i N
+phiu	f i W
+phiên	f ia N
+phiếm	f ia M
+phiến	f ia N
+phiếu	f ia W
+phiền	f ia N
+pho	f o
+phoi	f o Y
+phong	f o NGM
+phu	f u
+phun	f u N
+phuy	f w i
+phà	f a
+phàm	f a M
+phàn	f a N
+phàng	f a NG
+phào	f a W
+phá	f a
+phác	f a k
+phách	f ae CH
+phái	f a Y
+phán	f a N
+pháo	f a W
+pháp	f a P
+phát	f a T
+phân	f A N
+phây	f A Y
+phè	f e
+phèn	f e N
+phèo	f e W
+phép	f e P
+phét	f e T
+phê	f E
+phên	f E N
+phì	f i
+phình	f i NH
+phí	f i
+phía	f ia
+phích	f i CH
+phím	f i M
+phò	f o
+phòi	f o Y
+phòng	f o NGM
+phó	f o
+phóng	f o NGM
+phô	f O
+phôi	f O Y
+phông	f O NGM
+phù	f u
+phùn	f u N
+phùng	f u NGM
+phú	f u
+phúc	f u KP
+phút	f u T
+phũ	f u q
+phơ	f oe
+phơi	f oe Y
+phương	f Ua NG
+phước	f Ua k
+phường	f Ua NG
+phượng	f Ua q NG
+phượt	f Ua T
+phạm	f a q M
+phạt	f a T
+phả	f a
+phải	f a Y
+phản	f a N
+phấn	f A N
+phất	f A T
+phần	f A N
+phẩm	f A M
+phẩy	f A Y
+phẫu	f A q W
+phận	f A q N
+phập	f A P
+phật	f A T
+phẳng	f ae NG
+phế	f E
+phếch	f E CH
+phết	f E T
+phễu	f E q W
+phệ	f E q
+phỉ	f i
+phỉnh	f i NH
+phị	f i q
+phịch	f i CH
+phọt	f o T
+phỏng	f o NGM
+phố	f O
+phối	f O Y
+phốt	f O T
+phồng	f O NGM
+phổ	f O
+phổi	f O Y
+phổng	f O NGM
+phỗng	f o q ngM
+phới	f oe Y
+phớt	f oe T
+phở	f oe
+phụ	f u q
+phục	f u KP
+phụng	f u q ngM
+phụt	f u T
+phủ	f u
+phủi	f u Y
+phức	f U k
+phừng	f U NG
+pin	b i N
+pê	b E
+pí	b i
+pích	b i CH
+píp	b i P
+pô	b O
+pương	b Ua NG
+qua	k w a
+quai	k w a Y
+quan	k w a N
+quang	k w a NG
+quanh	k w ae NH
+quay	k w ae Y
+que	k w e
+quen	k w e N
+qui	k w i
+quy	k w i
+quyên	k w ia N
+quyến	k w ia N
+quyết	k w ia T
+quyền	k w ia N
+quyển	k w ia N
+quyện	k w ia q N
+quyệt	k w ia T
+quà	k w a
+quàng	k w a NG
+quành	k w ae NH
+quào	k w a W
+quá	k w a
+quách	k w ae CH
+quái	k w a Y
+quán	k w a N
+quáng	k w a NG
+quánh	k w ae NH
+quát	k w a T
+quân	k w A N
+quây	k w A Y
+quãng	k w a q NG
+què	k w e
+qué	k w e
+quét	k w e T
+quê	k w E
+quên	k w E N
+quí	k w i
+quít	k w i T
+quý	k w i
+quýnh	k w i NH
+quýt	k w i T
+quăn	k w ae N
+quăng	k w ae NG
+quơ	k w oe
+quạ	k w a q
+quạc	k w a k
+quại	k w a q Y
+quạnh	k w ae q NH
+quạt	k w a T
+quạu	k w ae q W
+quả	k w a
+quản	k w a N
+quảng	k w a NG
+quảy	k w ae Y
+quấc	k w A k
+quấn	k w A N
+quất	k w A T
+quấy	k w A Y
+quần	k w A N
+quầng	k w A NG
+quầy	k w A Y
+quẩn	k w A N
+quẩy	k w A Y
+quẫy	k w A q Y
+quận	k w A q N
+quật	k w A T
+quậy	k w A q Y
+quắt	k w ae T
+quằn	k w ae N
+quặm	k w ae q M
+quặn	k w ae q N
+quặng	k w ae q NG
+quặt	k w ae T
+quẹo	k w e q W
+quẹt	k w e T
+quẻ	k w e
+quế	k w E
+quết	k w E T
+quỉ	k w i
+quốc	k w O k
+quở	k w oe
+quỳ	k w i
+quỳnh	k w i NH
+quỵ	k w i q
+quỵt	k w i T
+quỷ	k w i
+quỹ	k w i q
+ra	z a
+rai	z a Y
+ram	z a M
+ran	z a N
+rang	z a NG
+ranh	z ae NH
+rao	z a W
+rau	z ae W
+ray	z ae Y
+ren	z e N
+reo	z e W
+ri	z i
+ria	z ia
+rinh	z i NH
+riu	z i W
+riêng	z ia NG
+riêu	z ia W
+riết	z ia T
+riềng	z ia NG
+riệu	z ia q W
+ro	z o
+roi	z o Y
+rong	z o NGM
+room	z o M
+ru	z u
+rum	z u M
+run	z u N
+rung	z u NGM
+ruốc	z ua k
+ruồi	z ua Y
+ruồng	z ua NG
+ruộng	z ua q NG
+ruột	z ua T
+rà	z a
+ràn	z a N
+ràng	z a NG
+rành	z ae NH
+rào	z a W
+rày	z ae Y
+rá	z a
+rác	z a k
+rách	z ae CH
+rái	z a Y
+rám	z a M
+rán	z a N
+ráng	z a NG
+ráo	z a W
+ráp	z a P
+rát	z a T
+ráy	z ae Y
+râm	z A M
+rân	z A N
+râu	z A W
+rây	z A Y
+rã	z a q
+rãi	z a q Y
+rãnh	z ae q NH
+rãy	z ae q Y
+rèm	z e M
+rèn	z e N
+ré	z e
+rén	z e N
+réo	z e W
+rét	z e T
+rê	z E
+rên	z E N
+rêu	z E W
+rì	z i
+rìa	z ia
+rình	z i NH
+rìu	z i W
+rích	z i CH
+rít	z i T
+ríu	z i W
+rò	z o
+ròm	z o M
+ròng	z o NGM
+róc	z o KP
+rót	z o T
+rô	z O
+rông	z O NGM
+rõ	z o q
+rùa	z ua
+rùm	z u M
+rùn	z u N
+rùng	z u NGM
+rú	z u
+rúc	z u KP
+rún	z u N
+rút	z u T
+răn	z ae N
+răng	z ae NG
+rũ	z u q
+rũa	z ua q
+rơ	z oe
+rơi	z oe Y
+rơm	z oe M
+rưng	z U NG
+rươi	z Ua Y
+rương	z Ua NG
+rước	z Ua k
+rưới	z Ua Y
+rướm	z Ua M
+rướn	z Ua N
+rường	z Ua NG
+rưởi	z Ua Y
+rưỡi	z Ua q Y
+rượi	z Ua q Y
+rượt	z Ua T
+rượu	z Ua q W
+rạ	z a q
+rạc	z a k
+rạch	z ae CH
+rạn	z a q N
+rạng	z a q NG
+rạo	z a q W
+rạp	z a P
+rạt	z a T
+rải	z a Y
+rảnh	z ae NH
+rảo	z a W
+rảy	z ae Y
+rấm	z A M
+rấn	z A N
+rấp	z A P
+rất	z A T
+rầm	z A M
+rầu	z A W
+rầy	z A Y
+rẩy	z A Y
+rẫy	z A q Y
+rậm	z A q M
+rận	z A q N
+rập	z A P
+rắc	z ae k
+rắm	z ae M
+rắn	z ae N
+rắp	z ae P
+rắt	z ae T
+rằm	z ae M
+rằn	z ae N
+rằng	z ae NG
+rặn	z ae q N
+rặng	z ae q NG
+rẻ	z e
+rẻo	z e W
+rẽ	z e q
+rế	z E
+rếch	z E CH
+rết	z E T
+rề	z E
+rền	z E N
+rể	z E
+rễ	z E q
+rệ	z E q
+rệp	z E P
+rệt	z E T
+rỉ	z i
+rỉa	z ia
+rịch	z i CH
+rịn	z i q N
+rọ	z o q
+rọc	z o KP
+rọi	z o q Y
+rối	z O Y
+rốn	z O N
+rống	z O NGM
+rốt	z O T
+rồ	z O
+rồi	z O Y
+rồng	z O NGM
+rổ	z O
+rỗi	z O q Y
+rỗng	z o q ngM
+rộ	z O q
+rộn	z O q N
+rộng	z o q ngM
+rớ	z oe
+rớm	z oe M
+rớp	z oe P
+rớt	z oe T
+rờ	z oe
+rời	z oe Y
+rờn	z oe N
+rởm	z oe M
+rỡ	z oe q
+rợ	z oe q
+rợn	z oe q N
+rợp	z oe P
+rục	z u KP
+rụi	z u q Y
+rụng	z u q ngM
+rụt	z u T
+rủ	z u
+rủa	z ua
+rủi	z u Y
+rủn	z u N
+rứa	z Ua
+rứt	z U T
+rừng	z U NG
+rử	z U
+rửa	z Ua
+rữa	z Ua q
+rựa	z Ua q
+rực	z U k
+sa	s a
+sai	s a Y
+sam	s a M
+san	s a N
+sang	s a NG
+sanh	s ae NH
+sao	s a W
+sau	s ae W
+say	s ae Y
+se	s e
+sen	s e N
+seo	s e W
+si	s i
+sim	s i M
+sin	s i N
+sing	s i NH
+sinh	s i NH
+siêng	s ia NG
+siêu	s ia W
+siết	s ia T
+so	s o
+soi	s o Y
+son	s o N
+song	s o NGM
+soài	s w a Y
+soát	s w a T
+soóc	s o k
+soạn	s w a q N
+soọc	s o k
+su	s u
+sui	s u Y
+sum	s u M
+sun	s u N
+sung	s u NGM
+suy	s w i
+suyễn	s w ia q N
+suôn	s ua N
+suýt	s w i T
+suất	s w A T
+suối	s ua Y
+suốt	s ua T
+suỵt	s w i T
+sà	s a
+sài	s a Y
+sàn	s a N
+sàng	s a NG
+sành	s ae NH
+sào	s a W
+sá	s a
+sách	s ae CH
+sái	s a Y
+sám	s a M
+sán	s a N
+sáng	s a NG
+sánh	s ae NH
+sáo	s a W
+sáp	s a P
+sát	s a T
+sáu	s ae W
+sâm	s A M
+sân	s A N
+sâu	s A W
+sãi	s a q Y
+séc	s e k
+sét	s e T
+sên	s E N
+sênh	s E NH
+sình	s i NH
+sính	s i NH
+síp	s i P
+sít	s i T
+sò	s o
+sòng	s o NGM
+sóc	s o KP
+sói	s o Y
+sóng	s o NGM
+sót	s o T
+sô	s O
+sôi	s O Y
+sông	s O NGM
+sõi	s o q Y
+sùi	s u Y
+sùng	s u NGM
+sú	s u
+súc	s u KP
+sún	s u N
+súng	s u NGM
+sút	s u T
+săm	s ae M
+săn	s ae N
+sĩ	s i q
+sũng	s u q ngM
+sơ	s oe
+sơn	s oe N
+sư	s U
+sưa	s Ua
+sưng	s U NG
+sưu	s U W
+sương	s Ua NG
+sướng	s Ua NG
+sướt	s Ua T
+sườn	s Ua N
+sưởi	s Ua Y
+sượng	s Ua q NG
+sạc	s a k
+sạch	s ae CH
+sạm	s a q M
+sạn	s a q N
+sạp	s a P
+sạt	s a T
+sả	s a
+sải	s a Y
+sản	s a N
+sảnh	s ae NH
+sảo	s a W
+sảy	s ae Y
+sấm	s A M
+sấp	s A P
+sấu	s A W
+sấy	s A Y
+sầm	s A M
+sầu	s A W
+sầy	s A Y
+sẩm	s A M
+sẩy	s A Y
+sẫm	s A q M
+sậm	s A q M
+sập	s A P
+sậy	s A q Y
+sắc	s ae k
+sắm	s ae M
+sắn	s ae N
+sắp	s ae P
+sắt	s ae T
+sẳn	s ae N
+sẵn	s ae q N
+sặc	s ae k
+sẹo	s e q W
+sẻ	s e
+sẽ	s e q
+sến	s E N
+sếp	s E P
+sếu	s E W
+sệt	s E T
+sỉ	s i
+sỉa	s ia
+sọ	s o q
+sọc	s o KP
+sọt	s o T
+sỏ	s o
+sỏi	s o Y
+số	s O
+sốc	s O KP
+sống	s O NGM
+sốt	s O T
+sồi	s O Y
+sổ	s O
+sổng	s O NGM
+sớm	s oe M
+sớt	s oe T
+sờ	s oe
+sờn	s oe N
+sở	s oe
+sởi	s oe Y
+sởn	s oe N
+sợ	s oe q
+sợi	s oe q Y
+sục	s u KP
+sụn	s u q N
+sụp	s u P
+sụt	s u T
+sủa	s ua
+sủi	s u Y
+sứ	s U
+sứa	s Ua
+sức	s U k
+sứt	s U T
+sừng	s U NG
+sử	s U
+sửa	s Ua
+sửng	s U NG
+sửu	s U W
+sữa	s Ua q
+sững	s U q NG
+sự	s U q
+sực	s U k
+sỹ	s i q
+ta	t a
+tai	t a Y
+tam	t a M
+tan	t a N
+tang	t a NG
+tanh	t ae NH
+tao	t a W
+tau	t ae W
+tay	t ae Y
+tem	t e M
+teo	t e W
+tha	th a
+thai	th a Y
+tham	th a M
+than	th a N
+thang	th a NG
+thanh	th ae NH
+thao	th a W
+thau	th ae W
+thay	th ae Y
+the	th e
+then	th e N
+theo	th e W
+thi	th i
+thinh	th i NH
+thiu	th i W
+thiêm	th ia M
+thiên	th ia N
+thiêng	th ia NG
+thiêu	th ia W
+thiếc	th ia k
+thiến	th ia N
+thiếp	th ia P
+thiết	th ia T
+thiếu	th ia W
+thiền	th ia N
+thiểu	th ia W
+thiện	th ia q N
+thiệp	th ia P
+thiệt	th ia T
+thiệu	th ia q W
+tho	th o
+thoa	th w a
+thoai	th w a Y
+thoang	th w a NG
+thoi	th o Y
+thon	th o N
+thong	th o NGM
+thoái	th w a Y
+thoáng	th w a NG
+thoát	th w a T
+thoại	th w a q Y
+thoạt	th w a T
+thoả	th w a
+thoải	th w a Y
+thoảng	th w a NG
+thu	th u
+thua	th ua
+thui	th u Y
+thun	th u N
+thung	th u NGM
+thuyên	th w ia N
+thuyết	th w ia T
+thuyền	th w ia N
+thuê	th w E
+thuôn	th ua N
+thuý	th w i
+thuần	th w A N
+thuẫn	th w A q N
+thuận	th w A q N
+thuật	th w A T
+thuế	th w E
+thuốc	th ua k
+thuổng	th ua NG
+thuộc	th ua k
+thuột	th ua T
+thuở	th ua
+thuỳ	th w i
+thuỵ	th w i q
+thuỷ	th w i
+thyền	th ia N
+thà	th a
+thành	th ae NH
+thào	th a W
+thác	th a k
+thách	th ae CH
+thái	th a Y
+thám	th a M
+thán	th a N
+tháng	th a NG
+thánh	th ae NH
+tháo	th a W
+tháp	th a P
+tháu	th ae W
+tháy	th ae Y
+thâm	th A M
+thân	th A N
+thâu	th A W
+thây	th A Y
+thè	th e
+thèm	th e M
+thép	th e P
+thét	th e T
+thê	th E
+thêm	th E M
+thêu	th E W
+thì	th i
+thìa	th ia
+thìn	th i N
+thình	th i NH
+thí	th i
+thích	th i CH
+thím	th i M
+thính	th i NH
+thò	th o
+thòi	th o Y
+thòng	th o NGM
+thóc	th o KP
+thói	th o Y
+thóp	th o P
+thót	th o T
+thô	th O
+thôi	th O Y
+thôn	th O N
+thông	th O NGM
+thù	th u
+thùa	th ua
+thùng	th u NGM
+thùy	th u Y
+thú	th u
+thúc	th u KP
+thúi	th u Y
+thúng	th u NGM
+thúy	th u Y
+thăm	th ae M
+thăn	th ae N
+thăng	th ae NG
+thơ	th oe
+thơi	th oe Y
+thơm	th oe M
+thư	th U
+thưa	th Ua
+thương	th Ua NG
+thước	th Ua k
+thướt	th Ua T
+thường	th Ua NG
+thưởng	th Ua NG
+thược	th Ua k
+thượng	th Ua q NG
+thạc	th a k
+thạch	th ae CH
+thạo	th a q W
+thả	th a
+thải	th a Y
+thảm	th a M
+thản	th a N
+thảnh	th ae NH
+thảo	th a W
+thảy	th ae Y
+thấm	th A M
+thấp	th A P
+thất	th A T
+thấu	th A W
+thấy	th A Y
+thầm	th A M
+thần	th A N
+thầu	th A W
+thầy	th A Y
+thẩm	th A M
+thẩn	th A N
+thẩy	th A Y
+thậm	th A q M
+thận	th A q N
+thập	th A P
+thật	th A T
+thắc	th ae k
+thắm	th ae M
+thắn	th ae N
+thắng	th ae NG
+thắp	th ae P
+thắt	th ae T
+thằn	th ae N
+thằng	th ae NG
+thẳm	th ae M
+thẳng	th ae NG
+thẹn	th e q N
+thẹo	th e q W
+thẻ	th e
+thế	th E
+thề	th E
+thềm	th E M
+thều	th E W
+thể	th E
+thỉnh	th i NH
+thỉu	th i W
+thị	th i q
+thịch	th i CH
+thịnh	th i q NH
+thịt	th i T
+thọ	th o q
+thọc	th o KP
+thọt	th o T
+thỏ	th o
+thỏa	th w a
+thốc	th O KP
+thối	th O Y
+thốn	th O N
+thống	th O NGM
+thốt	th O T
+thồ	th O
+thồn	th O N
+thổ	th O
+thổi	th O Y
+thổn	th O N
+thớt	th oe T
+thờ	th oe
+thời	th oe Y
+thở	th oe
+thợ	th oe q
+thụ	th u q
+thục	th u KP
+thụt	th u T
+thụy	th u q Y
+thủ	th u
+thủa	th ua
+thủi	th u Y
+thủm	th u M
+thủng	th u NGM
+thủy	th u Y
+thứ	th U
+thức	th U k
+thừ	th U
+thừa	th Ua
+thừng	th U NG
+thử	th U
+thửa	th Ua
+thự	th U q
+thực	th U k
+ti	t i
+tia	t ia
+tim	t i M
+tin	t i N
+tinh	t i NH
+tiêm	t ia M
+tiên	t ia N
+tiêu	t ia W
+tiếc	t ia k
+tiến	t ia N
+tiếng	t ia NG
+tiếp	t ia P
+tiết	t ia T
+tiếu	t ia W
+tiềm	t ia M
+tiền	t ia N
+tiều	t ia W
+tiển	t ia N
+tiểng	t ia NG
+tiểu	t ia W
+tiễn	t ia q N
+tiệc	t ia k
+tiệm	t ia q M
+tiện	t ia q N
+tiệp	t ia P
+to	t o
+toa	t w a
+toan	t w a N
+toang	t w a NG
+toe	t w e
+toi	t o Y
+ton	t o N
+tong	t o NGM
+toà	t w a
+toàn	t w a N
+toác	t w a k
+toái	t w a Y
+toán	t w a N
+toáng	t w a NG
+toát	t w a T
+toé	t w e
+toét	t w e T
+toạc	t w a k
+toả	t w a
+tra	ch a
+trai	ch a Y
+trang	ch a NG
+tranh	ch ae NH
+trao	ch a W
+trau	ch ae W
+tre	ch e
+treo	ch e W
+tri	ch i
+tring	ch i NH
+trinh	ch i NH
+triết	ch ia T
+triền	ch ia N
+triều	ch ia W
+triển	ch ia N
+triện	ch ia q N
+triệt	ch ia T
+triệu	ch ia q W
+tro	ch o
+trong	ch o NGM
+tru	ch u
+trung	ch u NGM
+truy	ch w i
+truyền	ch w ia N
+truyện	ch w ia q N
+truông	ch ua NG
+truất	ch w A T
+truồng	ch ua NG
+truờng	ch ua NG
+trà	ch a
+tràm	ch a M
+tràn	ch a N
+tràng	ch a NG
+trành	ch ae NH
+trào	ch a W
+trá	ch a
+trác	ch a k
+trách	ch ae CH
+trái	ch a Y
+trám	ch a M
+trán	ch a N
+tráng	ch a NG
+tránh	ch ae NH
+tráo	ch a W
+tráp	ch a P
+trát	ch a T
+trâm	ch A M
+trân	ch A N
+trâu	ch A W
+trã	ch a q
+trèo	ch e W
+trét	ch e T
+trên	ch E N
+trêu	ch E W
+trì	ch i
+trình	ch i NH
+trí	ch i
+trích	ch i CH
+trính	ch i NH
+trò	ch o
+tròn	ch o N
+tròng	ch o NGM
+tróc	ch o KP
+trói	ch o Y
+trót	ch o T
+trôi	ch O Y
+trông	ch O NGM
+trù	ch u
+trùm	ch u M
+trùn	ch u N
+trùng	ch u NGM
+trú	ch u
+trúc	ch u KP
+trúng	ch u NGM
+trút	ch u T
+trăm	ch ae M
+trăn	ch ae N
+trăng	ch ae NG
+trĩ	ch i q
+trĩu	ch i q W
+trũng	ch u q ngM
+trơ	ch oe
+trơn	ch oe N
+trư	ch U
+trưa	ch Ua
+trưng	ch U NG
+trương	ch Ua NG
+trước	ch Ua k
+trườn	ch Ua N
+trường	ch Ua NG
+trưởng	ch Ua NG
+trượng	ch Ua q NG
+trượt	ch Ua T
+trạc	ch a k
+trại	ch a q Y
+trạm	ch a q M
+trạng	ch a q NG
+trả	ch a
+trải	ch a Y
+trảm	ch a M
+trảng	ch a NG
+trấn	ch A N
+trấu	ch A W
+trầm	ch A M
+trần	ch A N
+trầu	ch A W
+trầy	ch A Y
+trẩu	ch A W
+trẫm	ch A q M
+trận	ch A q N
+trật	ch A T
+trắc	ch ae k
+trắm	ch ae M
+trắng	ch ae NG
+trặc	ch ae k
+trẹo	ch e q W
+trẻ	ch e
+trề	ch E
+trển	ch E N
+trễ	ch E q
+trệ	ch E q
+trệt	ch E T
+trị	ch i q
+trịch	ch i CH
+trịnh	ch i q NH
+trọ	ch o q
+trọc	ch o KP
+trọi	ch o q Y
+trọn	ch o q N
+trọng	ch o q ngM
+trỏ	ch o
+trỏng	ch o NGM
+trốc	ch O KP
+trối	ch O Y
+trốn	ch O N
+trống	ch O NGM
+trồ	ch O
+trồi	ch O Y
+trồng	ch O NGM
+trổ	ch O
+trội	ch O q Y
+trộm	ch O q M
+trộn	ch O q N
+trớn	ch oe N
+trời	ch oe Y
+trở	ch oe
+trợ	ch oe q
+trợn	ch oe q N
+trợt	ch oe T
+trụ	ch u q
+trục	ch u KP
+trụi	ch u q Y
+trụng	ch u q ngM
+trủ	ch u
+trứng	ch U NG
+trừ	ch U
+trừng	ch U NG
+trữ	ch U q
+trực	ch U k
+tu	t u
+tua	t ua
+tui	t u Y
+tum	t u M
+tung	t u NGM
+tuy	t w i
+tuyên	t w ia N
+tuyến	t w ia N
+tuyết	t w ia T
+tuyền	t w ia N
+tuyển	t w ia N
+tuyệt	t w ia T
+tuân	t w A N
+tuôn	t ua N
+tuý	t w i
+tuýp	t w i P
+tuýt	t w i T
+tuấn	t w A N
+tuất	t w A T
+tuần	t w A N
+tuế	t w E
+tuệ	t w E q
+tuốt	t ua T
+tuồng	t ua NG
+tuổi	t ua Y
+tuột	t ua T
+tuỳ	t w i
+tuỵ	t w i q
+tuỷ	t w i
+ty	t i
+tà	t a
+tài	t a Y
+tàn	t a N
+tàng	t a NG
+tàu	t ae W
+tày	t ae Y
+tá	t a
+tác	t a k
+tách	t ae CH
+tái	t a Y
+tám	t a M
+tán	t a N
+táng	t a NG
+tánh	t ae NH
+táo	t a W
+táp	t a P
+tát	t a T
+tâm	t A M
+tân	t A N
+tâng	t A NG
+tâu	t A W
+tây	t A Y
+tã	t a q
+tãi	t a q Y
+tè	t e
+té	t e
+tém	t e M
+tép	t e P
+tét	t e T
+tê	t E
+têm	t E M
+tên	t E N
+tênh	t E NH
+tì	t i
+tìm	t i M
+tình	t i NH
+tí	t i
+tía	t ia
+tích	t i CH
+tím	t i M
+tín	t i N
+tính	t i NH
+típ	t i P
+tít	t i T
+tíu	t i W
+tò	t o
+tòa	t w a
+tòi	t o Y
+tóc	t o KP
+tóm	t o M
+tóp	t o P
+tót	t o T
+tô	t O
+tôi	t O Y
+tôm	t O M
+tôn	t O N
+tông	t O NGM
+tõm	t o q M
+tù	t u
+tùng	t u NGM
+tùy	t u Y
+tú	t u
+túa	t ua
+túc	t u KP
+túi	t u Y
+túm	t u M
+túng	t u NGM
+tút	t u T
+túy	t u Y
+tý	t i
+tăm	t ae M
+tăn	t ae N
+tăng	t ae NG
+tĩnh	t i q NH
+tơ	t oe
+tơi	t oe Y
+tư	t U
+tưng	t U NG
+tươi	t Ua Y
+tươm	t Ua M
+tương	t Ua NG
+tước	t Ua k
+tưới	t Ua Y
+tướng	t Ua NG
+tường	t Ua NG
+tườu	t Ua W
+tưởng	t Ua NG
+tượng	t Ua q NG
+tạ	t a q
+tạc	t a k
+tại	t a q Y
+tạm	t a q M
+tạng	t a q NG
+tạnh	t ae q NH
+tạo	t a q W
+tạp	t a P
+tạt	t a T
+tả	t a
+tải	t a Y
+tản	t a N
+tảng	t a NG
+tảo	t a W
+tấc	t A k
+tấm	t A M
+tấn	t A N
+tấp	t A P
+tất	t A T
+tấu	t A W
+tầm	t A M
+tần	t A N
+tầng	t A NG
+tẩm	t A M
+tẩn	t A N
+tẩu	t A W
+tẩy	t A Y
+tận	t A q N
+tập	t A P
+tật	t A T
+tậu	t A q W
+tắc	t ae k
+tắm	t ae M
+tắn	t ae N
+tắp	t ae P
+tắt	t ae T
+tằm	t ae M
+tặc	t ae k
+tặng	t ae q NG
+tẹo	t e q W
+tẹt	t e T
+tẻ	t e
+tế	t E
+tếch	t E CH
+tết	t E T
+tể	t E
+tệ	t E q
+tệp	t E P
+tỉ	t i
+tỉa	t ia
+tỉnh	t i NH
+tị	t i q
+tịch	t i CH
+tịnh	t i q NH
+tịt	t i T
+tọp	t o P
+tọt	t o T
+tỏ	t o
+tỏa	t w a
+tỏi	t o Y
+tỏm	t o M
+tố	t O
+tốc	t O KP
+tối	t O Y
+tốn	t O N
+tống	t O NGM
+tốp	t O P
+tốt	t O T
+tồi	t O Y
+tồn	t O N
+tổ	t O
+tổn	t O N
+tổng	t O NGM
+tộ	t O q
+tộc	t O KP
+tội	t O q Y
+tột	t O T
+tớ	t oe
+tới	t oe Y
+tờ	t oe
+tởm	t oe M
+tởn	t oe N
+tợ	t oe q
+tợn	t oe q N
+tợp	t oe P
+tụ	t u q
+tục	t u KP
+tụi	t u q Y
+tụm	t u q M
+tụng	t u q ngM
+tụt	t u T
+tủ	t u
+tủi	t u Y
+tứ	t U
+tức	t U k
+từ	t U
+từng	t U NG
+tử	t U
+tửu	t U W
+tự	t U q
+tựa	t Ua q
+tựu	t U q W
+tỷ	t i
+u	u
+ung	u NGM
+uy	w i
+uyên	w ia N
+uyển	w ia N
+uên	w E N
+uôn	ua N
+uý	w i
+uất	w A T
+uốn	ua N
+uống	ua NG
+uổng	ua NG
+va	v a
+vai	v a Y
+van	v a N
+vang	v a NG
+vay	v ae Y
+ve	v e
+ven	v e N
+veo	v e W
+vi	v i
+vinh	v i NH
+viêm	v ia M
+viên	v ia N
+viêt	v ia T
+viếng	v ia NG
+viết	v ia T
+viền	v ia N
+viễn	v ia q N
+việc	v ia k
+viện	v ia q N
+việt	v ia T
+vo	v o
+voa	v w a
+voan	v w a N
+voi	v o Y
+vong	v o NGM
+voọc	v o k
+vu	v u
+vua	v ua
+vui	v u Y
+vun	v u N
+vung	v u NGM
+vuông	v ua NG
+vuốt	v ua T
+vuột	v ua T
+vy	v i
+và	v a
+vài	v a Y
+vàn	v a N
+vàng	v a NG
+vành	v ae NH
+vào	v a W
+vá	v a
+vác	v a k
+vách	v ae CH
+vái	v a Y
+ván	v a N
+váng	v a NG
+vánh	v ae NH
+vát	v a T
+váy	v ae Y
+vân	v A N
+vâng	v A NG
+vây	v A Y
+vã	v a q
+vãi	v a q Y
+vè	v e
+vèo	v e W
+vé	v e
+vén	v e N
+véo	v e W
+vét	v e T
+vê	v E
+vênh	v E NH
+vì	v i
+ví	v i
+vía	v ia
+vích	v i CH
+vít	v i T
+víu	v i W
+vò	v o
+vòi	v o Y
+vòm	v o M
+vòng	v o NGM
+vó	v o
+vóc	v o KP
+vón	v o N
+vót	v o T
+vô	v O
+vôi	v O Y
+vôn	v O N
+vông	v O NGM
+võ	v o q
+võng	v o q ngM
+vù	v u
+vùi	v u Y
+vùng	v u NGM
+vú	v u
+vút	v u T
+văn	v ae N
+văng	v ae NG
+vĩ	v i q
+vĩnh	v i q NH
+vũ	v u q
+vũng	v u q ngM
+vơ	v oe
+vơi	v oe Y
+vưu	v U W
+vươn	v Ua N
+vương	v Ua NG
+vướng	v Ua NG
+vườn	v Ua N
+vượn	v Ua q N
+vượng	v Ua q NG
+vượt	v Ua T
+vạ	v a q
+vạc	v a k
+vạch	v ae CH
+vạn	v a q N
+vạng	v a q NG
+vạt	v a T
+vả	v a
+vải	v a Y
+vảng	v a NG
+vảy	v ae Y
+vấn	v A N
+vấp	v A P
+vất	v A T
+vấy	v A Y
+vần	v A N
+vầng	v A NG
+vầy	v A Y
+vẩn	v A N
+vẫn	v A q N
+vẫy	v A q Y
+vận	v A q N
+vật	v A T
+vậy	v A q Y
+vắng	v ae NG
+vắt	v ae T
+vằn	v ae N
+vẳng	v ae NG
+vặc	v ae k
+vặn	v ae q N
+vặt	v ae T
+vẹm	v e q M
+vẹn	v e q N
+vẹo	v e q W
+vẹt	v e T
+vẻ	v e
+vẽ	v e q
+vế	v E
+vết	v E T
+vếu	v E W
+về	v E
+vểnh	v E NH
+vệ	v E q
+vện	v E q N
+vệt	v E T
+vỉ	v i
+vỉa	v ia
+vị	v i q
+vịm	v i q M
+vịn	v i q N
+vịnh	v i q NH
+vịt	v i T
+vọc	v o KP
+vọng	v o q ngM
+vọt	v o T
+vỏ	v o
+vốc	v O KP
+vốn	v O N
+vồ	v O
+vồng	v O NGM
+vỗ	v O q
+vội	v O q Y
+vớ	v oe
+với	v oe Y
+vớt	v oe T
+vờ	v oe
+vời	v oe Y
+vờn	v oe N
+vở	v oe
+vỡ	v oe q
+vợ	v oe q
+vợi	v oe q Y
+vợt	v oe T
+vụ	v u q
+vục	v u KP
+vụn	v u q N
+vụng	v u q ngM
+vụt	v u T
+vứt	v U T
+vừa	v Ua
+vừng	v U NG
+vữa	v Ua q
+vững	v U q NG
+vựa	v Ua q
+vực	v U k
+xa	s a
+xang	s a NG
+xanh	s ae NH
+xao	s a W
+xay	s ae Y
+xe	s e
+xem	s e M
+xen	s e N
+xi	s i
+xin	s i N
+xinh	s i NH
+xiêm	s ia M
+xiên	s ia N
+xiêu	s ia W
+xiếc	s ia k
+xiết	s ia T
+xiềng	s ia NG
+xoa	s w a
+xoang	s w a NG
+xoay	s w ae Y
+xoe	s w e
+xoi	s o Y
+xong	s o NGM
+xoong	s o NG
+xoài	s w a Y
+xoàn	s w a N
+xoá	s w a
+xoáy	s w ae Y
+xoã	s w a q
+xoè	s w e
+xoăn	s w ae N
+xoạc	s w a k
+xoắn	s w ae N
+xu	s u
+xua	s ua
+xui	s u Y
+xung	s u NGM
+xuyên	s w ia N
+xuyến	s w ia N
+xuân	s w A N
+xuôi	s ua Y
+xuýt	s w i T
+xuất	s w A T
+xuống	s ua NG
+xuồng	s ua NG
+xà	s a
+xài	s a Y
+xàm	s a M
+xào	s a W
+xá	s a
+xác	s a k
+xách	s ae CH
+xái	s a Y
+xám	s a M
+xáo	s a W
+xát	s a T
+xáy	s ae Y
+xâm	s A M
+xâu	s A W
+xây	s A Y
+xã	s a q
+xèng	s e NG
+xèo	s e W
+xé	s e
+xém	s e M
+xén	s e N
+xéo	s e W
+xét	s e T
+xê	s E
+xì	s i
+xí	s i
+xía	s ia
+xích	s i CH
+xính	s i NH
+xít	s i T
+xíu	s i W
+xòa	s w a
+xòe	s w e
+xó	s o
+xóa	s w a
+xóc	s o KP
+xói	s o Y
+xóm	s o M
+xót	s o T
+xô	s O
+xôi	s O Y
+xôn	s O N
+xông	s O NGM
+xõa	s w a q
+xù	s u
+xùy	s u Y
+xúc	s u KP
+xúi	s u Y
+xúm	s u M
+xúng	s u NGM
+xúp	s u P
+xút	s u T
+xăm	s ae M
+xăng	s ae NG
+xơ	s oe
+xơi	s oe Y
+xưa	s Ua
+xưng	s U NG
+xương	s Ua NG
+xước	s Ua k
+xướng	s Ua NG
+xưởng	s Ua NG
+xạ	s a q
+xạc	s a k
+xạch	s ae CH
+xạo	s a q W
+xả	s a
+xảo	s a W
+xảy	s ae Y
+xấp	s A P
+xấu	s A W
+xẩm	s A M
+xắn	s ae N
+xắt	s ae T
+xẹp	s e P
+xẻ	s e
+xẻng	s e NG
+xẽ	s e q
+xế	s E
+xếch	s E CH
+xếp	s E P
+xệ	s E q
+xệch	s E CH
+xỉ	s i
+xỉa	s ia
+xỉn	s i N
+xỉu	s i W
+xị	s i q
+xịn	s i q N
+xịt	s i T
+xỏ	s o
+xốc	s O KP
+xối	s O Y
+xốn	s O N
+xống	s O NGM
+xốp	s O P
+xốt	s O T
+xộn	s O q N
+xới	s oe Y
+xởi	s oe Y
+xứ	s U
+xức	s U k
+xứng	s U NG
+xử	s U
+xực	s U k
+y	i
+yên	ia N
+yêu	ia W
+yếm	ia M
+yến	ia N
+yết	ia T
+yếu	ia W
+yểm	ia M
+yểu	ia W
+à	a
+àm	a M
+ào	a W
+á	a
+ác	a k
+ách	ae CH
+ái	a Y
+ám	a M
+án	a N
+áng	a NG
+ánh	ae NH
+áo	a W
+áp	a P
+át	a T
+â	A
+âm	A M
+ân	A N
+âu	A W
+ây	A Y
+éc	e k
+ém	e M
+én	e N
+éo	e W
+ép	e P
+ét	e T
+ê	E
+êm	E M
+ì	i
+í	i
+ích	i CH
+ít	i T
+òa	w a
+ó	o
+óc	o KP
+ói	o Y
+óng	o NGM
+ót	o T
+ô	O
+ôi	O Y
+ôm	O M
+ôn	O N
+ông	O NGM
+ù	u
+ùn	u N
+ú	u
+úa	ua
+úc	u KP
+úi	u Y
+úng	u NGM
+úp	u P
+út	u T
+úy	u Y
+ý	i
+ă	a
+ăn	ae N
+đa	d a
+đai	d a Y
+đam	d a M
+đan	d a N
+đang	d a NG
+đanh	d ae NH
+đao	d a W
+đau	d ae W
+đay	d ae Y
+đe	d e
+đem	d e M
+đen	d e N
+đeo	d e W
+đi	d i
+đia	d ia
+đinh	d i NH
+điên	d ia N
+điêu	d ia W
+điếc	d ia k
+điếm	d ia M
+điếu	d ia W
+điềm	d ia M
+điền	d ia N
+điều	d ia W
+điểm	d ia M
+điển	d ia N
+điểu	d ia W
+điện	d ia q N
+điệp	d ia P
+điệu	d ia q W
+đo	d o
+đoan	d w a N
+đong	d o NGM
+đoàn	d w a N
+đoàng	d w a NG
+đoá	d w a
+đoán	d w a N
+đoạn	d w a q N
+đoạt	d w a T
+đoản	d w a N
+đu	d u
+đua	d ua
+đun	d u N
+đung	d u NGM
+đuôi	d ua Y
+đuông	d ua NG
+đuốc	d ua k
+đuối	d ua Y
+đuổi	d ua Y
+đà	d a
+đài	d a Y
+đàm	d a M
+đàn	d a N
+đàng	d a NG
+đành	d ae NH
+đào	d a W
+đày	d ae Y
+đá	d a
+đác	d a k
+đái	d a Y
+đám	d a M
+đán	d a N
+đáng	d a NG
+đánh	d ae NH
+đáo	d a W
+đáp	d a P
+đát	d a T
+đáy	d ae Y
+đâm	d A M
+đâu	d A W
+đây	d A Y
+đã	d a q
+đãi	d a q Y
+đãng	d a q NG
+đè	d e
+đèn	d e N
+đèo	d e W
+đéo	d e W
+đê	d E
+đêm	d E M
+đênh	d E NH
+đì	d i
+đìa	d ia
+đình	d i NH
+đìu	d i W
+đía	d ia
+đích	d i CH
+đính	d i NH
+đít	d i T
+đò	d o
+đòi	d o Y
+đòm	d o M
+đòn	d o N
+đó	d o
+đóa	d w a
+đói	d o Y
+đóm	d o M
+đón	d o N
+đóng	d o NGM
+đô	d O
+đôi	d O Y
+đôn	d O N
+đông	d O NGM
+đù	d u
+đùa	d ua
+đùi	d u Y
+đùm	d u M
+đùng	d u NGM
+đú	d u
+đúc	d u KP
+đúng	d u NGM
+đúp	d u P
+đút	d u T
+đăm	d ae M
+đăng	d ae NG
+đĩ	d i q
+đĩa	d ia q
+đũa	d ua q
+đũng	d u q ngM
+đũy	d u q Y
+đơ	d oe
+đơm	d oe M
+đơn	d oe N
+đưa	d Ua
+đương	d Ua NG
+đước	d Ua k
+đường	d Ua NG
+được	d Ua k
+đượm	d Ua q M
+đạc	d a k
+đại	d a q Y
+đạm	d a q M
+đạn	d a q N
+đạo	d a q W
+đạp	d a P
+đạt	d a T
+đả	d a
+đảm	d a M
+đảng	d a NG
+đảnh	d ae NH
+đảo	d a W
+đấm	d A M
+đấng	d A NG
+đất	d A T
+đấu	d A W
+đấy	d A Y
+đầm	d A M
+đần	d A N
+đầu	d A W
+đầy	d A Y
+đẩu	d A W
+đẩy	d A Y
+đẫm	d A q M
+đẫn	d A q N
+đẫy	d A q Y
+đậm	d A q M
+đận	d A q N
+đập	d A P
+đật	d A T
+đậu	d A q W
+đậy	d A q Y
+đắc	d ae k
+đắm	d ae M
+đắn	d ae N
+đắng	d ae NG
+đắp	d ae P
+đắt	d ae T
+đằm	d ae M
+đằng	d ae NG
+đẳng	d ae NG
+đặc	d ae k
+đặng	d ae q NG
+đặt	d ae T
+đẹp	d e P
+đẻ	d e
+đẻn	d e N
+đẽo	d e q W
+đế	d E
+đếch	d E CH
+đếm	d E M
+đến	d E N
+đề	d E
+đềm	d E M
+đền	d E N
+đều	d E W
+để	d E
+đểu	d E W
+đễnh	d E q NH
+đệ	d E q
+đệm	d E q M
+đệt	d E T
+đỉa	d ia
+đỉnh	d i NH
+địa	d ia q
+địch	d i CH
+định	d i q NH
+địt	d i T
+đọ	d o q
+đọa	d w a q
+đọc	d o KP
+đọi	d o q Y
+đọng	d o q ngM
+đọt	d o T
+đỏ	d o
+đỏm	d o M
+đỏng	d o NGM
+đố	d O
+đốc	d O KP
+đối	d O Y
+đốm	d O M
+đốn	d O N
+đống	d O NGM
+đốt	d O T
+đồ	d O
+đồi	d O Y
+đồn	d O N
+đồng	d O NGM
+đổ	d O
+đổi	d O Y
+đỗ	d O q
+đỗi	d O q Y
+độ	d O q
+độc	d O KP
+đội	d O q Y
+độn	d O q N
+động	d o q ngM
+đột	d O T
+đớ	d oe
+đới	d oe Y
+đớn	d oe N
+đớp	d oe P
+đờ	d oe
+đời	d oe Y
+đờm	d oe M
+đờn	d oe N
+đở	d oe
+đỡ	d oe q
+đợi	d oe q Y
+đợt	d oe T
+đụ	d u q
+đục	d u KP
+đụn	d u q N
+đụng	d u q ngM
+đụt	d u T
+đủ	d u
+đứa	d Ua
+đức	d U k
+đứng	d U NG
+đứt	d U T
+đừng	d U NG
+đực	d U k
+đựng	d U q NG
+ĩ	i q
+ơ	oe
+ơi	oe Y
+ơn	oe N
+ư	U
+ưa	Ua
+ưng	U NG
+ưu	U W
+ươi	Ua Y
+ươm	Ua M
+ươn	Ua N
+ương	Ua NG
+ước	Ua k
+ướp	Ua P
+ướt	Ua T
+ưỡn	Ua q N
+ạ	a q
+ạt	a T
+ả	a
+ải	a Y
+ảm	a M
+ảnh	ae NH
+ảo	a W
+ấm	A M
+ấn	A N
+ấp	A P
+ất	A T
+ấu	A W
+ấy	A Y
+ầm	A M
+ầu	A W
+ầy	A Y
+ẩm	A M
+ẩn	A N
+ẩu	A W
+ậm	A q M
+ập	A P
+ắng	ae NG
+ắp	ae P
+ắt	ae T
+ẳng	ae NG
+ẵm	ae q M
+ẹ	e q
+ẹp	e P
+ẻm	e M
+ế	E
+ếch	E CH
+ềnh	E NH
+ễnh	E q NH
+ỉa	ia
+ỉm	i M
+ỉn	i N
+ỉu	i W
+ị	i q
+ịch	i CH
+ịn	i q N
+ịt	i T
+ọe	w e q
+ỏi	o Y
+ốc	O KP
+ối	O Y
+ốm	O M
+ống	O NGM
+ốp	O P
+ồ	O
+ồm	O M
+ồn	O N
+ồng	O NGM
+ổ	O
+ổi	O Y
+ổn	O N
+ổng	O NGM
+ộc	O KP
+ộp	O P
+ớ	oe
+ớn	oe N
+ớt	oe T
+ờ	oe
+ở	oe
+ởn	oe N
+ợ	oe q
+ụ	u q
+ục	u KP
+ủ	u
+ủa	ua
+ủi	u Y
+ủn	u N
+ủng	u NGM
+ủy	u Y
+ứ	U
+ứa	Ua
+ức	U k
+ứng	U NG
+ừ	U
+ừa	Ua
+ừm	U M
+ửng	U NG
+ực	U k
